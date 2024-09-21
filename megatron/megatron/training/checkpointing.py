@@ -1059,7 +1059,7 @@ def load_checkpoint(model, optimizer, opt_param_scheduler, load_arg='load', stri
     # Model.
     strict = False if args.retro_add_retriever else strict
     if len(model) == 1:
-        model[0].load_state_dict(state_dict['model'], strict=strict)
+        model[0].load_state_dict(state_dict['model'], strict=False)
     else:
         for i in range(len(model)):
             mpu.set_virtual_pipeline_model_parallel_rank(i)
