@@ -1,0 +1,4 @@
+diff --git a/tests/unit_tests/runner/test_parse_hostfile.py b/tests/unit_tests/runner/test_parse_hostfile.py
+old mode 100644
+new mode 100755
+

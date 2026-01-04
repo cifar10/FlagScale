@@ -1,0 +1,4 @@
+diff --git a/flagscale/backends/vllm/vllm/distributed/kv_transfer/kv_connector/p2p_connector.py.patch b/flagscale/backends/vllm/vllm/distributed/kv_transfer/kv_connector/p2p_connector.py.patch
+old mode 100644
+new mode 100755
+

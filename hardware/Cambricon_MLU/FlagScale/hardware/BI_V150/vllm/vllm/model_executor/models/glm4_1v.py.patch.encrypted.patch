@@ -1,0 +1,4 @@
+diff --git a/hardware/BI_V150/vllm/vllm/model_executor/models/glm4_1v.py.patch.encrypted b/hardware/BI_V150/vllm/vllm/model_executor/models/glm4_1v.py.patch.encrypted
+old mode 100644
+new mode 100755
+

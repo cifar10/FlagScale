@@ -1,0 +1,4 @@
+diff --git a/flagscale/serve/args_mapping/gen_template_conf.py b/flagscale/serve/args_mapping/gen_template_conf.py
+old mode 100644
+new mode 100755
+

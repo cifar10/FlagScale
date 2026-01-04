@@ -1,0 +1,11 @@
+diff --git a/hardware/Cambricon_MLU/FlagScale/flagscale/compress/compressor.py.patch b/hardware/Cambricon_MLU/FlagScale/flagscale/compress/compressor.py.patch
+new file mode 100644
+index 00000000..3236ed06
+--- /dev/null
++++ b/hardware/Cambricon_MLU/FlagScale/flagscale/compress/compressor.py.patch
+@@ -0,0 +1,4 @@
++diff --git a/flagscale/compress/compressor.py b/flagscale/compress/compressor.py
++old mode 100644
++new mode 100755
++
+

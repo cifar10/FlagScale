@@ -1,0 +1,11 @@
+diff --git a/hardware/Cambricon_MLU/FlagScale/docker/Dockerfile.cuda.patch b/hardware/Cambricon_MLU/FlagScale/docker/Dockerfile.cuda.patch
+new file mode 100644
+index 00000000..e95e4c58
+--- /dev/null
++++ b/hardware/Cambricon_MLU/FlagScale/docker/Dockerfile.cuda.patch
+@@ -0,0 +1,4 @@
++diff --git a/docker/Dockerfile.cuda b/docker/Dockerfile.cuda
++old mode 100644
++new mode 100755
++
+

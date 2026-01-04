@@ -1,0 +1,11 @@
+diff --git a/hardware/Cambricon_MLU/FlagScale/flagscale/train/dualpipev/fb_overlap/transformer_block.py.patch b/hardware/Cambricon_MLU/FlagScale/flagscale/train/dualpipev/fb_overlap/transformer_block.py.patch
+new file mode 100644
+index 00000000..468e0bc7
+--- /dev/null
++++ b/hardware/Cambricon_MLU/FlagScale/flagscale/train/dualpipev/fb_overlap/transformer_block.py.patch
+@@ -0,0 +1,4 @@
++diff --git a/flagscale/train/dualpipev/fb_overlap/transformer_block.py b/flagscale/train/dualpipev/fb_overlap/transformer_block.py
++old mode 100644
++new mode 100755
++
+

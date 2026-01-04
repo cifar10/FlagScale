@@ -1,0 +1,11 @@
+diff --git a/hardware/Cambricon_MLU/FlagScale/build_backend/flagscale_build_backend.py.patch b/hardware/Cambricon_MLU/FlagScale/build_backend/flagscale_build_backend.py.patch
+new file mode 100644
+index 00000000..9325eeb6
+--- /dev/null
++++ b/hardware/Cambricon_MLU/FlagScale/build_backend/flagscale_build_backend.py.patch
+@@ -0,0 +1,4 @@
++diff --git a/build_backend/flagscale_build_backend.py b/build_backend/flagscale_build_backend.py
++old mode 100644
++new mode 100755
++
+

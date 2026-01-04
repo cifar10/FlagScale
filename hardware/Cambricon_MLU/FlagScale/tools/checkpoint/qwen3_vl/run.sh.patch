@@ -1,0 +1,4 @@
+diff --git a/tools/checkpoint/qwen3_vl/run.sh b/tools/checkpoint/qwen3_vl/run.sh
+old mode 100644
+new mode 100755
+

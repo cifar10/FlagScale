@@ -1,0 +1,11 @@
+diff --git a/hardware/Cambricon_MLU/FlagScale/flagscale/serve/args_mapping/README.md.patch b/hardware/Cambricon_MLU/FlagScale/flagscale/serve/args_mapping/README.md.patch
+new file mode 100644
+index 00000000..cd8601fb
+--- /dev/null
++++ b/hardware/Cambricon_MLU/FlagScale/flagscale/serve/args_mapping/README.md.patch
+@@ -0,0 +1,4 @@
++diff --git a/flagscale/serve/args_mapping/README.md b/flagscale/serve/args_mapping/README.md
++old mode 100644
++new mode 100755
++
+

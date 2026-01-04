@@ -1,0 +1,4 @@
+diff --git a/examples/qwen3/conf/serve_atmb.yaml b/examples/qwen3/conf/serve_atmb.yaml
+old mode 100644
+new mode 100755
+

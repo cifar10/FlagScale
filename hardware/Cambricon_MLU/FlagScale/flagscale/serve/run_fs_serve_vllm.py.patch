@@ -1,0 +1,4 @@
+diff --git a/flagscale/serve/run_fs_serve_vllm.py b/flagscale/serve/run_fs_serve_vllm.py
+old mode 100644
+new mode 100755
+

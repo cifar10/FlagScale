@@ -1,0 +1,11 @@
+diff --git a/hardware/Cambricon_MLU/FlagScale/hardware/Cambricon_MLU/vllm/.gitignore.patch.patch b/hardware/Cambricon_MLU/FlagScale/hardware/Cambricon_MLU/vllm/.gitignore.patch.patch
+new file mode 100644
+index 00000000..7eee1a02
+--- /dev/null
++++ b/hardware/Cambricon_MLU/FlagScale/hardware/Cambricon_MLU/vllm/.gitignore.patch.patch
+@@ -0,0 +1,4 @@
++diff --git a/hardware/Cambricon_MLU/vllm/.gitignore.patch b/hardware/Cambricon_MLU/vllm/.gitignore.patch
++old mode 100644
++new mode 100755
++
+

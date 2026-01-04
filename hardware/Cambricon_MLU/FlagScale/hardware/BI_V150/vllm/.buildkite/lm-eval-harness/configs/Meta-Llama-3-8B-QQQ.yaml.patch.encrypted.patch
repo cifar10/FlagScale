@@ -1,0 +1,4 @@
+diff --git a/hardware/BI_V150/vllm/.buildkite/lm-eval-harness/configs/Meta-Llama-3-8B-QQQ.yaml.patch.encrypted b/hardware/BI_V150/vllm/.buildkite/lm-eval-harness/configs/Meta-Llama-3-8B-QQQ.yaml.patch.encrypted
+old mode 100644
+new mode 100755
+

@@ -1,0 +1,4 @@
+diff --git a/hardware/Cambricon_MLU/vllm/.github/workflows/bc-lint.yml.patch b/hardware/Cambricon_MLU/vllm/.github/workflows/bc-lint.yml.patch
+old mode 100644
+new mode 100755
+

@@ -1,0 +1,11 @@
+diff --git a/hardware/Cambricon_MLU/FlagScale/flagscale/inference/embodied_entrypoint.py.patch b/hardware/Cambricon_MLU/FlagScale/flagscale/inference/embodied_entrypoint.py.patch
+new file mode 100644
+index 00000000..ce80e2b4
+--- /dev/null
++++ b/hardware/Cambricon_MLU/FlagScale/flagscale/inference/embodied_entrypoint.py.patch
+@@ -0,0 +1,4 @@
++diff --git a/flagscale/inference/embodied_entrypoint.py b/flagscale/inference/embodied_entrypoint.py
++old mode 100644
++new mode 100755
++
+

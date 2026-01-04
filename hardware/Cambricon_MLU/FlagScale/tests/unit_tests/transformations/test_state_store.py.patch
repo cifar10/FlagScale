@@ -1,0 +1,4 @@
+diff --git a/tests/unit_tests/transformations/test_state_store.py b/tests/unit_tests/transformations/test_state_store.py
+old mode 100644
+new mode 100755
+

@@ -1,0 +1,11 @@
+diff --git a/hardware/Cambricon_MLU/FlagScale/hardware/Cambricon_MLU/vllm/.github/workflows/issue_autolabel.yml.patch.patch b/hardware/Cambricon_MLU/FlagScale/hardware/Cambricon_MLU/vllm/.github/workflows/issue_autolabel.yml.patch.patch
+new file mode 100644
+index 00000000..6f5c8a88
+--- /dev/null
++++ b/hardware/Cambricon_MLU/FlagScale/hardware/Cambricon_MLU/vllm/.github/workflows/issue_autolabel.yml.patch.patch
+@@ -0,0 +1,4 @@
++diff --git a/hardware/Cambricon_MLU/vllm/.github/workflows/issue_autolabel.yml.patch b/hardware/Cambricon_MLU/vllm/.github/workflows/issue_autolabel.yml.patch
++old mode 100644
++new mode 100755
++
+

@@ -1,0 +1,11 @@
+diff --git a/hardware/Cambricon_MLU/FlagScale/flagscale/serve/data_process/action_chunk_to_fast_token.py.patch b/hardware/Cambricon_MLU/FlagScale/flagscale/serve/data_process/action_chunk_to_fast_token.py.patch
+new file mode 100644
+index 00000000..f752c05a
+--- /dev/null
++++ b/hardware/Cambricon_MLU/FlagScale/flagscale/serve/data_process/action_chunk_to_fast_token.py.patch
+@@ -0,0 +1,4 @@
++diff --git a/flagscale/serve/data_process/action_chunk_to_fast_token.py b/flagscale/serve/data_process/action_chunk_to_fast_token.py
++old mode 100644
++new mode 100755
++
+

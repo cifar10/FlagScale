@@ -1,0 +1,11 @@
+diff --git a/hardware/Cambricon_MLU/FlagScale/hardware/Cambricon_MLU/vllm/.buildkite/lm-eval-harness/run-lm-eval-gsm-hf-baseline.sh.patch.patch b/hardware/Cambricon_MLU/FlagScale/hardware/Cambricon_MLU/vllm/.buildkite/lm-eval-harness/run-lm-eval-gsm-hf-baseline.sh.patch.patch
+new file mode 100644
+index 00000000..55c4948f
+--- /dev/null
++++ b/hardware/Cambricon_MLU/FlagScale/hardware/Cambricon_MLU/vllm/.buildkite/lm-eval-harness/run-lm-eval-gsm-hf-baseline.sh.patch.patch
+@@ -0,0 +1,4 @@
++diff --git a/hardware/Cambricon_MLU/vllm/.buildkite/lm-eval-harness/run-lm-eval-gsm-hf-baseline.sh.patch b/hardware/Cambricon_MLU/vllm/.buildkite/lm-eval-harness/run-lm-eval-gsm-hf-baseline.sh.patch
++old mode 100644
++new mode 100755
++
+

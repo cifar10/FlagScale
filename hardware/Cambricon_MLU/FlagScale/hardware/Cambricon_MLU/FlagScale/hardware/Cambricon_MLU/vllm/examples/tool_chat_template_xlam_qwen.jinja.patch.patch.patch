@@ -1,0 +1,11 @@
+diff --git a/hardware/Cambricon_MLU/FlagScale/hardware/Cambricon_MLU/vllm/examples/tool_chat_template_xlam_qwen.jinja.patch.patch b/hardware/Cambricon_MLU/FlagScale/hardware/Cambricon_MLU/vllm/examples/tool_chat_template_xlam_qwen.jinja.patch.patch
+new file mode 100644
+index 00000000..789655f8
+--- /dev/null
++++ b/hardware/Cambricon_MLU/FlagScale/hardware/Cambricon_MLU/vllm/examples/tool_chat_template_xlam_qwen.jinja.patch.patch
+@@ -0,0 +1,4 @@
++diff --git a/hardware/Cambricon_MLU/vllm/examples/tool_chat_template_xlam_qwen.jinja.patch b/hardware/Cambricon_MLU/vllm/examples/tool_chat_template_xlam_qwen.jinja.patch
++old mode 100644
++new mode 100755
++
+

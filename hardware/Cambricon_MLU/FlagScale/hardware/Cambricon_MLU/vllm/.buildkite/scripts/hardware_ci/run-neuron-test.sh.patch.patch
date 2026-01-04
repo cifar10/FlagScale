@@ -1,0 +1,4 @@
+diff --git a/hardware/Cambricon_MLU/vllm/.buildkite/scripts/hardware_ci/run-neuron-test.sh.patch b/hardware/Cambricon_MLU/vllm/.buildkite/scripts/hardware_ci/run-neuron-test.sh.patch
+old mode 100644
+new mode 100755
+

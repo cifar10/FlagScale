@@ -1,0 +1,4 @@
+diff --git a/flagscale/train/models/qwen3_vl/layer_specs.py b/flagscale/train/models/qwen3_vl/layer_specs.py
+old mode 100644
+new mode 100755
+

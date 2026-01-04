@@ -1,0 +1,11 @@
+diff --git a/hardware/Cambricon_MLU/FlagScale/flagscale/runner/elastic/log_collector.py.patch b/hardware/Cambricon_MLU/FlagScale/flagscale/runner/elastic/log_collector.py.patch
+new file mode 100644
+index 00000000..78b58465
+--- /dev/null
++++ b/hardware/Cambricon_MLU/FlagScale/flagscale/runner/elastic/log_collector.py.patch
+@@ -0,0 +1,4 @@
++diff --git a/flagscale/runner/elastic/log_collector.py b/flagscale/runner/elastic/log_collector.py
++old mode 100644
++new mode 100755
++
+

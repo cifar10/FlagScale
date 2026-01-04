@@ -1,0 +1,4 @@
+diff --git a/flagscale/inference/runtime_context.py b/flagscale/inference/runtime_context.py
+old mode 100644
+new mode 100755
+

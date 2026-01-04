@@ -1,0 +1,4 @@
+diff --git a/hardware/Cambricon_MLU/vllm/vllm_mlu/cmake/utils.cmake.patch b/hardware/Cambricon_MLU/vllm/vllm_mlu/cmake/utils.cmake.patch
+old mode 100644
+new mode 100755
+

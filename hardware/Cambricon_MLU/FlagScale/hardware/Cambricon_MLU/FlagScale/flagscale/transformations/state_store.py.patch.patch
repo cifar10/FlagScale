@@ -1,0 +1,11 @@
+diff --git a/hardware/Cambricon_MLU/FlagScale/flagscale/transformations/state_store.py.patch b/hardware/Cambricon_MLU/FlagScale/flagscale/transformations/state_store.py.patch
+new file mode 100644
+index 00000000..2ccd9aba
+--- /dev/null
++++ b/hardware/Cambricon_MLU/FlagScale/flagscale/transformations/state_store.py.patch
+@@ -0,0 +1,4 @@
++diff --git a/flagscale/transformations/state_store.py b/flagscale/transformations/state_store.py
++old mode 100644
++new mode 100755
++
+

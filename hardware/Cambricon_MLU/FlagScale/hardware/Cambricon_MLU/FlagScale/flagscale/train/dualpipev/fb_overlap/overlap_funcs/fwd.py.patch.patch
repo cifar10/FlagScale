@@ -1,0 +1,11 @@
+diff --git a/hardware/Cambricon_MLU/FlagScale/flagscale/train/dualpipev/fb_overlap/overlap_funcs/fwd.py.patch b/hardware/Cambricon_MLU/FlagScale/flagscale/train/dualpipev/fb_overlap/overlap_funcs/fwd.py.patch
+new file mode 100644
+index 00000000..4ad286bd
+--- /dev/null
++++ b/hardware/Cambricon_MLU/FlagScale/flagscale/train/dualpipev/fb_overlap/overlap_funcs/fwd.py.patch
+@@ -0,0 +1,4 @@
++diff --git a/flagscale/train/dualpipev/fb_overlap/overlap_funcs/fwd.py b/flagscale/train/dualpipev/fb_overlap/overlap_funcs/fwd.py
++old mode 100644
++new mode 100755
++
+

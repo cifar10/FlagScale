@@ -1,0 +1,4 @@
+diff --git a/hardware/MUSA_S5000/FlagScale/examples/qwen3/conf/serve/8b.yaml.patch b/hardware/MUSA_S5000/FlagScale/examples/qwen3/conf/serve/8b.yaml.patch
+old mode 100644
+new mode 100755
+

@@ -1,0 +1,4 @@
+diff --git a/hardware/Huawei_Atlas800TA3/sglang/test/srt/ascend_k8s/run_ascend_ci.py.patch.encrypted b/hardware/Huawei_Atlas800TA3/sglang/test/srt/ascend_k8s/run_ascend_ci.py.patch.encrypted
+old mode 100644
+new mode 100755
+

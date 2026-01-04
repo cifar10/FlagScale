@@ -1,0 +1,4 @@
+diff --git a/hardware/Metax_C550/Megatron-LM/tests/unit_tests/distributed/test_grad_sync_with_expert_parallel.py.patch b/hardware/Metax_C550/Megatron-LM/tests/unit_tests/distributed/test_grad_sync_with_expert_parallel.py.patch
+old mode 100644
+new mode 100755
+

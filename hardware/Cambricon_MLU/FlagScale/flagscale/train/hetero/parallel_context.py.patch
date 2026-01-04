@@ -1,0 +1,4 @@
+diff --git a/flagscale/train/hetero/parallel_context.py b/flagscale/train/hetero/parallel_context.py
+old mode 100644
+new mode 100755
+

@@ -1,0 +1,4 @@
+diff --git a/flagscale/runner/auto_tuner/hetero/hetero_generator.py b/flagscale/runner/auto_tuner/hetero/hetero_generator.py
+old mode 100644
+new mode 100755
+

@@ -1,0 +1,11 @@
+diff --git a/hardware/Cambricon_MLU/FlagScale/examples/deepseek_v3/conf/train/16b_a3b.yaml.patch b/hardware/Cambricon_MLU/FlagScale/examples/deepseek_v3/conf/train/16b_a3b.yaml.patch
+new file mode 100644
+index 00000000..9cdfa2b4
+--- /dev/null
++++ b/hardware/Cambricon_MLU/FlagScale/examples/deepseek_v3/conf/train/16b_a3b.yaml.patch
+@@ -0,0 +1,4 @@
++diff --git a/examples/deepseek_v3/conf/train/16b_a3b.yaml b/examples/deepseek_v3/conf/train/16b_a3b.yaml
++old mode 100644
++new mode 100755
++
+

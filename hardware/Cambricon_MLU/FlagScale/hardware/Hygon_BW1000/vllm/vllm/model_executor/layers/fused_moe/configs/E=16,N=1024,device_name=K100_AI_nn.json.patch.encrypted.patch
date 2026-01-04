@@ -1,0 +1,4 @@
+diff --git a/hardware/Hygon_BW1000/vllm/vllm/model_executor/layers/fused_moe/configs/E=16,N=1024,device_name=K100_AI_nn.json.patch.encrypted b/hardware/Hygon_BW1000/vllm/vllm/model_executor/layers/fused_moe/configs/E=16,N=1024,device_name=K100_AI_nn.json.patch.encrypted
+old mode 100644
+new mode 100755
+

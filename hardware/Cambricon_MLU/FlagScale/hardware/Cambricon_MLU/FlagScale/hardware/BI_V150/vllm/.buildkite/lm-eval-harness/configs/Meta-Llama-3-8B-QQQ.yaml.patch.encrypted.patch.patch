@@ -1,0 +1,11 @@
+diff --git a/hardware/Cambricon_MLU/FlagScale/hardware/BI_V150/vllm/.buildkite/lm-eval-harness/configs/Meta-Llama-3-8B-QQQ.yaml.patch.encrypted.patch b/hardware/Cambricon_MLU/FlagScale/hardware/BI_V150/vllm/.buildkite/lm-eval-harness/configs/Meta-Llama-3-8B-QQQ.yaml.patch.encrypted.patch
+new file mode 100644
+index 00000000..95182f93
+--- /dev/null
++++ b/hardware/Cambricon_MLU/FlagScale/hardware/BI_V150/vllm/.buildkite/lm-eval-harness/configs/Meta-Llama-3-8B-QQQ.yaml.patch.encrypted.patch
+@@ -0,0 +1,4 @@
++diff --git a/hardware/BI_V150/vllm/.buildkite/lm-eval-harness/configs/Meta-Llama-3-8B-QQQ.yaml.patch.encrypted b/hardware/BI_V150/vllm/.buildkite/lm-eval-harness/configs/Meta-Llama-3-8B-QQQ.yaml.patch.encrypted
++old mode 100644
++new mode 100755
++
+

@@ -1,0 +1,11 @@
+diff --git a/hardware/Cambricon_MLU/FlagScale/hardware/BI_V150/vllm/.buildkite/scripts/hardware_ci/run-tpu-v1-test.sh.patch.encrypted.patch b/hardware/Cambricon_MLU/FlagScale/hardware/BI_V150/vllm/.buildkite/scripts/hardware_ci/run-tpu-v1-test.sh.patch.encrypted.patch
+new file mode 100644
+index 00000000..0e226c4f
+--- /dev/null
++++ b/hardware/Cambricon_MLU/FlagScale/hardware/BI_V150/vllm/.buildkite/scripts/hardware_ci/run-tpu-v1-test.sh.patch.encrypted.patch
+@@ -0,0 +1,4 @@
++diff --git a/hardware/BI_V150/vllm/.buildkite/scripts/hardware_ci/run-tpu-v1-test.sh.patch.encrypted b/hardware/BI_V150/vllm/.buildkite/scripts/hardware_ci/run-tpu-v1-test.sh.patch.encrypted
++old mode 100644
++new mode 100755
++
+

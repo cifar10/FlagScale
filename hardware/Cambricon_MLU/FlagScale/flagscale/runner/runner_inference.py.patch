@@ -1,0 +1,4 @@
+diff --git a/flagscale/runner/runner_inference.py b/flagscale/runner/runner_inference.py
+old mode 100644
+new mode 100755
+

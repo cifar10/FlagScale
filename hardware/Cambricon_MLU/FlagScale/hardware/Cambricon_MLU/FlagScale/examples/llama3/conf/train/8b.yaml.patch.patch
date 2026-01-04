@@ -1,0 +1,11 @@
+diff --git a/hardware/Cambricon_MLU/FlagScale/examples/llama3/conf/train/8b.yaml.patch b/hardware/Cambricon_MLU/FlagScale/examples/llama3/conf/train/8b.yaml.patch
+new file mode 100644
+index 00000000..8764a657
+--- /dev/null
++++ b/hardware/Cambricon_MLU/FlagScale/examples/llama3/conf/train/8b.yaml.patch
+@@ -0,0 +1,4 @@
++diff --git a/examples/llama3/conf/train/8b.yaml b/examples/llama3/conf/train/8b.yaml
++old mode 100644
++new mode 100755
++
+

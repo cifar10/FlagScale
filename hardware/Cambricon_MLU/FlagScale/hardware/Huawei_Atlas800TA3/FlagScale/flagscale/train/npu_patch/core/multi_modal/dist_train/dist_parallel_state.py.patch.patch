@@ -1,0 +1,4 @@
+diff --git a/hardware/Huawei_Atlas800TA3/FlagScale/flagscale/train/npu_patch/core/multi_modal/dist_train/dist_parallel_state.py.patch b/hardware/Huawei_Atlas800TA3/FlagScale/flagscale/train/npu_patch/core/multi_modal/dist_train/dist_parallel_state.py.patch
+old mode 100644
+new mode 100755
+

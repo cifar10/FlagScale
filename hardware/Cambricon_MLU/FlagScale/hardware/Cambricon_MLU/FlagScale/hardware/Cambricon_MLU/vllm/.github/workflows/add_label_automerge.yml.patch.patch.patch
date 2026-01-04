@@ -1,0 +1,11 @@
+diff --git a/hardware/Cambricon_MLU/FlagScale/hardware/Cambricon_MLU/vllm/.github/workflows/add_label_automerge.yml.patch.patch b/hardware/Cambricon_MLU/FlagScale/hardware/Cambricon_MLU/vllm/.github/workflows/add_label_automerge.yml.patch.patch
+new file mode 100644
+index 00000000..279b650f
+--- /dev/null
++++ b/hardware/Cambricon_MLU/FlagScale/hardware/Cambricon_MLU/vllm/.github/workflows/add_label_automerge.yml.patch.patch
+@@ -0,0 +1,4 @@
++diff --git a/hardware/Cambricon_MLU/vllm/.github/workflows/add_label_automerge.yml.patch b/hardware/Cambricon_MLU/vllm/.github/workflows/add_label_automerge.yml.patch
++old mode 100644
++new mode 100755
++
+

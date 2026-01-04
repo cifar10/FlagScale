@@ -1,0 +1,24 @@
+diff --git a/hardware/Cambricon_MLU/Megatron-LM/megatron/accelerator/__init__.py.patch b/hardware/Cambricon_MLU/Megatron-LM/megatron/accelerator/__init__.py.patch
+index 96b79e9e..d429306d 100644
+--- a/hardware/Cambricon_MLU/Megatron-LM/megatron/accelerator/__init__.py.patch
++++ b/hardware/Cambricon_MLU/Megatron-LM/megatron/accelerator/__init__.py.patch
+@@ -1,9 +1,9 @@
+ diff --git a/megatron/accelerator/__init__.py b/megatron/accelerator/__init__.py
+ new file mode 100644
+-index 000000000..40f99ded3
++index 000000000..ad4412871
+ --- /dev/null
+ +++ b/megatron/accelerator/__init__.py
+-@@ -0,0 +1,183 @@
++@@ -0,0 +1,184 @@
+ +import os
+ +from functools import wraps
+ +import torch
+@@ -186,5 +186,6 @@ index 000000000..40f99ded3
+ +    #torch.distributed.get_backend = wrapper_backend(torch.distributed.get_backend)
+ +    torch.distributed.init_process_group = wrapper_init_process_group(torch.distributed.init_process_group)
+ +    torch.distributed.new_group = wrapper_init_process_group(torch.distributed.new_group)
+++    torch.distributed.new_subgroups_by_enumeration = wrapper_init_process_group(torch.distributed.new_subgroups_by_enumeration)
+ +    torch.mlu.nccl=torch.mlu.cncl
+ 
+

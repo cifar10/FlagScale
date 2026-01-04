@@ -1,0 +1,11 @@
+diff --git a/hardware/Cambricon_MLU/FlagScale/flagscale/backends/vllm/vllm/distributed/kv_transfer/kv_connector/v1/p2p/flagcx_p2p_nccl_engine.py.patch.patch b/hardware/Cambricon_MLU/FlagScale/flagscale/backends/vllm/vllm/distributed/kv_transfer/kv_connector/v1/p2p/flagcx_p2p_nccl_engine.py.patch.patch
+new file mode 100644
+index 00000000..df3a6f5a
+--- /dev/null
++++ b/hardware/Cambricon_MLU/FlagScale/flagscale/backends/vllm/vllm/distributed/kv_transfer/kv_connector/v1/p2p/flagcx_p2p_nccl_engine.py.patch.patch
+@@ -0,0 +1,4 @@
++diff --git a/flagscale/backends/vllm/vllm/distributed/kv_transfer/kv_connector/v1/p2p/flagcx_p2p_nccl_engine.py.patch b/flagscale/backends/vllm/vllm/distributed/kv_transfer/kv_connector/v1/p2p/flagcx_p2p_nccl_engine.py.patch
++old mode 100644
++new mode 100755
++
+

@@ -1,0 +1,4 @@
+diff --git a/flagscale/serve/metric/__init__.py b/flagscale/serve/metric/__init__.py
+old mode 100644
+new mode 100755
+

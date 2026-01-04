@@ -1,0 +1,4 @@
+diff --git a/flagscale/train/datasets/sft_dataset.py b/flagscale/train/datasets/sft_dataset.py
+old mode 100644
+new mode 100755
+

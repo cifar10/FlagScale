@@ -1,0 +1,11 @@
+diff --git a/hardware/Cambricon_MLU/FlagScale/docker/README.md.patch b/hardware/Cambricon_MLU/FlagScale/docker/README.md.patch
+new file mode 100644
+index 00000000..0665d705
+--- /dev/null
++++ b/hardware/Cambricon_MLU/FlagScale/docker/README.md.patch
+@@ -0,0 +1,4 @@
++diff --git a/docker/README.md b/docker/README.md
++old mode 100644
++new mode 100755
++
+

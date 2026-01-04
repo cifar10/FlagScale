@@ -1,0 +1,11 @@
+diff --git a/hardware/Cambricon_MLU/FlagScale/hardware/Cambricon_MLU/Megatron-LM/tests/unit_tests/export/trtllm/test_single_device_fp8.py.patch.patch b/hardware/Cambricon_MLU/FlagScale/hardware/Cambricon_MLU/Megatron-LM/tests/unit_tests/export/trtllm/test_single_device_fp8.py.patch.patch
+new file mode 100644
+index 00000000..de8ad627
+--- /dev/null
++++ b/hardware/Cambricon_MLU/FlagScale/hardware/Cambricon_MLU/Megatron-LM/tests/unit_tests/export/trtllm/test_single_device_fp8.py.patch.patch
+@@ -0,0 +1,4 @@
++diff --git a/hardware/Cambricon_MLU/Megatron-LM/tests/unit_tests/export/trtllm/test_single_device_fp8.py.patch b/hardware/Cambricon_MLU/Megatron-LM/tests/unit_tests/export/trtllm/test_single_device_fp8.py.patch
++old mode 100644
++new mode 100755
++
+

@@ -1,0 +1,4 @@
+diff --git a/hardware/Hygon_BW1000/vllm/vllm/model_executor/layers/quantization/configs/awq/AWQ_512_7168_K100_AI.json.patch.encrypted b/hardware/Hygon_BW1000/vllm/vllm/model_executor/layers/quantization/configs/awq/AWQ_512_7168_K100_AI.json.patch.encrypted
+old mode 100644
+new mode 100755
+

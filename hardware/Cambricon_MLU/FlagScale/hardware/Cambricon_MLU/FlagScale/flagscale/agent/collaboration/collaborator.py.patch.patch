@@ -1,0 +1,11 @@
+diff --git a/hardware/Cambricon_MLU/FlagScale/flagscale/agent/collaboration/collaborator.py.patch b/hardware/Cambricon_MLU/FlagScale/flagscale/agent/collaboration/collaborator.py.patch
+new file mode 100644
+index 00000000..ee19166d
+--- /dev/null
++++ b/hardware/Cambricon_MLU/FlagScale/flagscale/agent/collaboration/collaborator.py.patch
+@@ -0,0 +1,4 @@
++diff --git a/flagscale/agent/collaboration/collaborator.py b/flagscale/agent/collaboration/collaborator.py
++old mode 100644
++new mode 100755
++
+

@@ -1,0 +1,4 @@
+diff --git a/hardware/Cambricon_MLU/vllm/vllm_mlu/vllm_mlu/model_executor/models/clip.py.patch b/hardware/Cambricon_MLU/vllm/vllm_mlu/vllm_mlu/model_executor/models/clip.py.patch
+old mode 100644
+new mode 100755
+

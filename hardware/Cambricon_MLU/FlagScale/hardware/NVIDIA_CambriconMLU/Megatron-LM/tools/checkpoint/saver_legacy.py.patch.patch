@@ -1,0 +1,4 @@
+diff --git a/hardware/NVIDIA_CambriconMLU/Megatron-LM/tools/checkpoint/saver_legacy.py.patch b/hardware/NVIDIA_CambriconMLU/Megatron-LM/tools/checkpoint/saver_legacy.py.patch
+old mode 100644
+new mode 100755
+

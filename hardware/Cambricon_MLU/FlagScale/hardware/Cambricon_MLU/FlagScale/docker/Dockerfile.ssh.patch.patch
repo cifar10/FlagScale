@@ -1,0 +1,11 @@
+diff --git a/hardware/Cambricon_MLU/FlagScale/docker/Dockerfile.ssh.patch b/hardware/Cambricon_MLU/FlagScale/docker/Dockerfile.ssh.patch
+new file mode 100644
+index 00000000..da94f6c1
+--- /dev/null
++++ b/hardware/Cambricon_MLU/FlagScale/docker/Dockerfile.ssh.patch
+@@ -0,0 +1,4 @@
++diff --git a/docker/Dockerfile.ssh b/docker/Dockerfile.ssh
++old mode 100644
++new mode 100755
++
+

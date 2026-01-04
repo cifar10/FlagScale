@@ -1,0 +1,11 @@
+diff --git a/hardware/Cambricon_MLU/FlagScale/flagscale/inference/inference_emu3p5.py.patch b/hardware/Cambricon_MLU/FlagScale/flagscale/inference/inference_emu3p5.py.patch
+new file mode 100644
+index 00000000..7e9392ef
+--- /dev/null
++++ b/hardware/Cambricon_MLU/FlagScale/flagscale/inference/inference_emu3p5.py.patch
+@@ -0,0 +1,4 @@
++diff --git a/flagscale/inference/inference_emu3p5.py b/flagscale/inference/inference_emu3p5.py
++old mode 100644
++new mode 100755
++
+

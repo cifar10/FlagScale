@@ -1,0 +1,11 @@
+diff --git a/hardware/Cambricon_MLU/FlagScale/hardware/Cambricon_MLU/Megatron-LM/megatron/core/jit.py.patch.patch b/hardware/Cambricon_MLU/FlagScale/hardware/Cambricon_MLU/Megatron-LM/megatron/core/jit.py.patch.patch
+new file mode 100644
+index 00000000..9a2603fb
+--- /dev/null
++++ b/hardware/Cambricon_MLU/FlagScale/hardware/Cambricon_MLU/Megatron-LM/megatron/core/jit.py.patch.patch
+@@ -0,0 +1,4 @@
++diff --git a/hardware/Cambricon_MLU/Megatron-LM/megatron/core/jit.py.patch b/hardware/Cambricon_MLU/Megatron-LM/megatron/core/jit.py.patch
++old mode 100644
++new mode 100755
++
+

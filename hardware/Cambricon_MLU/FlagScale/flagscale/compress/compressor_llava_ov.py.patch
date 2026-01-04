@@ -1,0 +1,4 @@
+diff --git a/flagscale/compress/compressor_llava_ov.py b/flagscale/compress/compressor_llava_ov.py
+old mode 100644
+new mode 100755
+

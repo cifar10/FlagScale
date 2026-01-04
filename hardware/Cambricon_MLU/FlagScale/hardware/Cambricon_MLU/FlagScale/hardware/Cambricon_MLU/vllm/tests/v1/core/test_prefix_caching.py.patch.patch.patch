@@ -1,0 +1,11 @@
+diff --git a/hardware/Cambricon_MLU/FlagScale/hardware/Cambricon_MLU/vllm/tests/v1/core/test_prefix_caching.py.patch.patch b/hardware/Cambricon_MLU/FlagScale/hardware/Cambricon_MLU/vllm/tests/v1/core/test_prefix_caching.py.patch.patch
+new file mode 100644
+index 00000000..a1d8c48f
+--- /dev/null
++++ b/hardware/Cambricon_MLU/FlagScale/hardware/Cambricon_MLU/vllm/tests/v1/core/test_prefix_caching.py.patch.patch
+@@ -0,0 +1,4 @@
++diff --git a/hardware/Cambricon_MLU/vllm/tests/v1/core/test_prefix_caching.py.patch b/hardware/Cambricon_MLU/vllm/tests/v1/core/test_prefix_caching.py.patch
++old mode 100644
++new mode 100755
++
+

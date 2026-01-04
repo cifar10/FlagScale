@@ -1,0 +1,11 @@
+diff --git a/hardware/Cambricon_MLU/FlagScale/examples/pi0/README.md.patch b/hardware/Cambricon_MLU/FlagScale/examples/pi0/README.md.patch
+new file mode 100644
+index 00000000..cee5db0e
+--- /dev/null
++++ b/hardware/Cambricon_MLU/FlagScale/examples/pi0/README.md.patch
+@@ -0,0 +1,4 @@
++diff --git a/examples/pi0/README.md b/examples/pi0/README.md
++old mode 100644
++new mode 100755
++
+

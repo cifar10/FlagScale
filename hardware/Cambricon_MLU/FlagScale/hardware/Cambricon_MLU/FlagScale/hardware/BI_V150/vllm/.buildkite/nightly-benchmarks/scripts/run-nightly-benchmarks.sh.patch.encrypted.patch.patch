@@ -1,0 +1,11 @@
+diff --git a/hardware/Cambricon_MLU/FlagScale/hardware/BI_V150/vllm/.buildkite/nightly-benchmarks/scripts/run-nightly-benchmarks.sh.patch.encrypted.patch b/hardware/Cambricon_MLU/FlagScale/hardware/BI_V150/vllm/.buildkite/nightly-benchmarks/scripts/run-nightly-benchmarks.sh.patch.encrypted.patch
+new file mode 100644
+index 00000000..0c5ada6f
+--- /dev/null
++++ b/hardware/Cambricon_MLU/FlagScale/hardware/BI_V150/vllm/.buildkite/nightly-benchmarks/scripts/run-nightly-benchmarks.sh.patch.encrypted.patch
+@@ -0,0 +1,4 @@
++diff --git a/hardware/BI_V150/vllm/.buildkite/nightly-benchmarks/scripts/run-nightly-benchmarks.sh.patch.encrypted b/hardware/BI_V150/vllm/.buildkite/nightly-benchmarks/scripts/run-nightly-benchmarks.sh.patch.encrypted
++old mode 100644
++new mode 100755
++
+

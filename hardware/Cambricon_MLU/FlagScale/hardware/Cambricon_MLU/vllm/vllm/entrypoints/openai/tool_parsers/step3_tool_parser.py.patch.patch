@@ -1,0 +1,4 @@
+diff --git a/hardware/Cambricon_MLU/vllm/vllm/entrypoints/openai/tool_parsers/step3_tool_parser.py.patch b/hardware/Cambricon_MLU/vllm/vllm/entrypoints/openai/tool_parsers/step3_tool_parser.py.patch
+old mode 100644
+new mode 100755
+

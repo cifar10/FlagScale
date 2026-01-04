@@ -1,0 +1,4 @@
+diff --git a/flagscale/models/robotics/cross_attention_dit.py b/flagscale/models/robotics/cross_attention_dit.py
+old mode 100644
+new mode 100755
+

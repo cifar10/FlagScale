@@ -1,0 +1,11 @@
+diff --git a/hardware/Cambricon_MLU/FlagScale/examples/emu3.5/conf/inference/visual_guidance.yaml.patch b/hardware/Cambricon_MLU/FlagScale/examples/emu3.5/conf/inference/visual_guidance.yaml.patch
+new file mode 100644
+index 00000000..92adc8e0
+--- /dev/null
++++ b/hardware/Cambricon_MLU/FlagScale/examples/emu3.5/conf/inference/visual_guidance.yaml.patch
+@@ -0,0 +1,4 @@
++diff --git a/examples/emu3.5/conf/inference/visual_guidance.yaml b/examples/emu3.5/conf/inference/visual_guidance.yaml
++old mode 100644
++new mode 100755
++
+

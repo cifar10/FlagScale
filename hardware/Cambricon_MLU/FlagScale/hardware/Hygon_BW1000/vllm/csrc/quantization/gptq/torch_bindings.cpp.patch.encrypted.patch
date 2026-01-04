@@ -1,0 +1,4 @@
+diff --git a/hardware/Hygon_BW1000/vllm/csrc/quantization/gptq/torch_bindings.cpp.patch.encrypted b/hardware/Hygon_BW1000/vllm/csrc/quantization/gptq/torch_bindings.cpp.patch.encrypted
+old mode 100644
+new mode 100755
+

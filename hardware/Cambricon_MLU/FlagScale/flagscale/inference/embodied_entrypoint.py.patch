@@ -1,0 +1,4 @@
+diff --git a/flagscale/inference/embodied_entrypoint.py b/flagscale/inference/embodied_entrypoint.py
+old mode 100644
+new mode 100755
+

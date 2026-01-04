@@ -1,0 +1,11 @@
+diff --git a/hardware/Cambricon_MLU/FlagScale/flagscale/utils.py.patch b/hardware/Cambricon_MLU/FlagScale/flagscale/utils.py.patch
+new file mode 100644
+index 00000000..93978838
+--- /dev/null
++++ b/hardware/Cambricon_MLU/FlagScale/flagscale/utils.py.patch
+@@ -0,0 +1,4 @@
++diff --git a/flagscale/utils.py b/flagscale/utils.py
++old mode 100644
++new mode 100755
++
+

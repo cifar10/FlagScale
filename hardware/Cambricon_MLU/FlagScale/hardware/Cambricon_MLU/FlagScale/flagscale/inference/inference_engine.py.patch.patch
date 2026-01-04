@@ -1,0 +1,11 @@
+diff --git a/hardware/Cambricon_MLU/FlagScale/flagscale/inference/inference_engine.py.patch b/hardware/Cambricon_MLU/FlagScale/flagscale/inference/inference_engine.py.patch
+new file mode 100644
+index 00000000..2750272d
+--- /dev/null
++++ b/hardware/Cambricon_MLU/FlagScale/flagscale/inference/inference_engine.py.patch
+@@ -0,0 +1,4 @@
++diff --git a/flagscale/inference/inference_engine.py b/flagscale/inference/inference_engine.py
++old mode 100644
++new mode 100755
++
+

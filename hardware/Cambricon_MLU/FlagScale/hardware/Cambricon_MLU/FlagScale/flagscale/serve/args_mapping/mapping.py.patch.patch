@@ -1,0 +1,11 @@
+diff --git a/hardware/Cambricon_MLU/FlagScale/flagscale/serve/args_mapping/mapping.py.patch b/hardware/Cambricon_MLU/FlagScale/flagscale/serve/args_mapping/mapping.py.patch
+new file mode 100644
+index 00000000..c8c19175
+--- /dev/null
++++ b/hardware/Cambricon_MLU/FlagScale/flagscale/serve/args_mapping/mapping.py.patch
+@@ -0,0 +1,4 @@
++diff --git a/flagscale/serve/args_mapping/mapping.py b/flagscale/serve/args_mapping/mapping.py
++old mode 100644
++new mode 100755
++
+

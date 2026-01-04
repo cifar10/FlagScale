@@ -1,0 +1,11 @@
+diff --git a/hardware/Cambricon_MLU/FlagScale/flagscale/serve/metric/serve_metric.py.patch b/hardware/Cambricon_MLU/FlagScale/flagscale/serve/metric/serve_metric.py.patch
+new file mode 100644
+index 00000000..f35c9f15
+--- /dev/null
++++ b/hardware/Cambricon_MLU/FlagScale/flagscale/serve/metric/serve_metric.py.patch
+@@ -0,0 +1,4 @@
++diff --git a/flagscale/serve/metric/serve_metric.py b/flagscale/serve/metric/serve_metric.py
++old mode 100644
++new mode 100755
++
+

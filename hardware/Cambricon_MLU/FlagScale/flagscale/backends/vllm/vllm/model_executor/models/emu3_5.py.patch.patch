@@ -1,0 +1,4 @@
+diff --git a/flagscale/backends/vllm/vllm/model_executor/models/emu3_5.py.patch b/flagscale/backends/vllm/vllm/model_executor/models/emu3_5.py.patch
+old mode 100644
+new mode 100755
+

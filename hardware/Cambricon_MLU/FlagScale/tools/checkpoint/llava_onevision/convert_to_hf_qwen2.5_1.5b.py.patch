@@ -1,0 +1,4 @@
+diff --git a/tools/checkpoint/llava_onevision/convert_to_hf_qwen2.5_1.5b.py b/tools/checkpoint/llava_onevision/convert_to_hf_qwen2.5_1.5b.py
+old mode 100644
+new mode 100755
+

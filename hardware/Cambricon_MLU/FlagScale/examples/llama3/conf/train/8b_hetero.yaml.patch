@@ -1,0 +1,4 @@
+diff --git a/examples/llama3/conf/train/8b_hetero.yaml b/examples/llama3/conf/train/8b_hetero.yaml
+old mode 100644
+new mode 100755
+

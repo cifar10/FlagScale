@@ -1,0 +1,4 @@
+diff --git a/hardware/Kunlunxin_R310p/vllm/csrc/quantization/cutlass_w8a8/moe/grouped_mm_c3x.cu.patch.encrypted b/hardware/Kunlunxin_R310p/vllm/csrc/quantization/cutlass_w8a8/moe/grouped_mm_c3x.cu.patch.encrypted
+old mode 100644
+new mode 100755
+

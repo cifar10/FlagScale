@@ -1,0 +1,4 @@
+diff --git a/flagscale/models/pi0/paligemma_with_expert.py b/flagscale/models/pi0/paligemma_with_expert.py
+old mode 100644
+new mode 100755
+

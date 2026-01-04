@@ -1,0 +1,4 @@
+diff --git a/flagscale/serve/run_inference_engine.py b/flagscale/serve/run_inference_engine.py
+old mode 100644
+new mode 100755
+

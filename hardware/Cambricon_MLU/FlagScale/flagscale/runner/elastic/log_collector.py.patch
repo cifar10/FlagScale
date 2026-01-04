@@ -1,0 +1,4 @@
+diff --git a/flagscale/runner/elastic/log_collector.py b/flagscale/runner/elastic/log_collector.py
+old mode 100644
+new mode 100755
+

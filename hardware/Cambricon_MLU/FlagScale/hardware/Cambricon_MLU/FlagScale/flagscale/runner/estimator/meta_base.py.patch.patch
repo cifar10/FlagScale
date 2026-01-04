@@ -1,0 +1,11 @@
+diff --git a/hardware/Cambricon_MLU/FlagScale/flagscale/runner/estimator/meta_base.py.patch b/hardware/Cambricon_MLU/FlagScale/flagscale/runner/estimator/meta_base.py.patch
+new file mode 100644
+index 00000000..cc2a89ad
+--- /dev/null
++++ b/hardware/Cambricon_MLU/FlagScale/flagscale/runner/estimator/meta_base.py.patch
+@@ -0,0 +1,4 @@
++diff --git a/flagscale/runner/estimator/meta_base.py b/flagscale/runner/estimator/meta_base.py
++old mode 100644
++new mode 100755
++
+

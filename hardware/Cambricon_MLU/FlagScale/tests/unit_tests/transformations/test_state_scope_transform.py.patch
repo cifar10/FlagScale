@@ -1,0 +1,4 @@
+diff --git a/tests/unit_tests/transformations/test_state_scope_transform.py b/tests/unit_tests/transformations/test_state_scope_transform.py
+old mode 100644
+new mode 100755
+

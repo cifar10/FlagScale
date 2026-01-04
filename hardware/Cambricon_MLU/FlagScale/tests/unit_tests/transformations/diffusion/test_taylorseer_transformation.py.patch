@@ -1,0 +1,4 @@
+diff --git a/tests/unit_tests/transformations/diffusion/test_taylorseer_transformation.py b/tests/unit_tests/transformations/diffusion/test_taylorseer_transformation.py
+old mode 100644
+new mode 100755
+

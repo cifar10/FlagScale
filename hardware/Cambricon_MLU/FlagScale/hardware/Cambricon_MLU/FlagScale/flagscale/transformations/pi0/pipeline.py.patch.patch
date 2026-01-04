@@ -1,0 +1,11 @@
+diff --git a/hardware/Cambricon_MLU/FlagScale/flagscale/transformations/pi0/pipeline.py.patch b/hardware/Cambricon_MLU/FlagScale/flagscale/transformations/pi0/pipeline.py.patch
+new file mode 100644
+index 00000000..b05a5405
+--- /dev/null
++++ b/hardware/Cambricon_MLU/FlagScale/flagscale/transformations/pi0/pipeline.py.patch
+@@ -0,0 +1,4 @@
++diff --git a/flagscale/transformations/pi0/pipeline.py b/flagscale/transformations/pi0/pipeline.py
++old mode 100644
++new mode 100755
++
+

@@ -1,0 +1,11 @@
+diff --git a/hardware/Cambricon_MLU/FlagScale/hardware/Cambricon_MLU/vllm/.github/scale-config.yml.patch.patch b/hardware/Cambricon_MLU/FlagScale/hardware/Cambricon_MLU/vllm/.github/scale-config.yml.patch.patch
+new file mode 100644
+index 00000000..0a10012e
+--- /dev/null
++++ b/hardware/Cambricon_MLU/FlagScale/hardware/Cambricon_MLU/vllm/.github/scale-config.yml.patch.patch
+@@ -0,0 +1,4 @@
++diff --git a/hardware/Cambricon_MLU/vllm/.github/scale-config.yml.patch b/hardware/Cambricon_MLU/vllm/.github/scale-config.yml.patch
++old mode 100644
++new mode 100755
++
+

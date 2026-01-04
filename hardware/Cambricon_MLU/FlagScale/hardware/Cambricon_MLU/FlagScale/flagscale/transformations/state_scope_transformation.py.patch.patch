@@ -1,0 +1,11 @@
+diff --git a/hardware/Cambricon_MLU/FlagScale/flagscale/transformations/state_scope_transformation.py.patch b/hardware/Cambricon_MLU/FlagScale/flagscale/transformations/state_scope_transformation.py.patch
+new file mode 100644
+index 00000000..198f87e0
+--- /dev/null
++++ b/hardware/Cambricon_MLU/FlagScale/flagscale/transformations/state_scope_transformation.py.patch
+@@ -0,0 +1,4 @@
++diff --git a/flagscale/transformations/state_scope_transformation.py b/flagscale/transformations/state_scope_transformation.py
++old mode 100644
++new mode 100755
++
+

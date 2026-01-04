@@ -1,0 +1,4 @@
+diff --git a/tests/functional_tests/test_cases/hetero_train/aquila/conf/train/dp2dp4_shared_embedding.yaml b/tests/functional_tests/test_cases/hetero_train/aquila/conf/train/dp2dp4_shared_embedding.yaml
+old mode 100644
+new mode 100755
+

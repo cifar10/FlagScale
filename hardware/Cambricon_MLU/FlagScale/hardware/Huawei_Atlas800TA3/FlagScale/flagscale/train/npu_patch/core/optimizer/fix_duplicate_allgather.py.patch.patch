@@ -1,0 +1,4 @@
+diff --git a/hardware/Huawei_Atlas800TA3/FlagScale/flagscale/train/npu_patch/core/optimizer/fix_duplicate_allgather.py.patch b/hardware/Huawei_Atlas800TA3/FlagScale/flagscale/train/npu_patch/core/optimizer/fix_duplicate_allgather.py.patch
+old mode 100644
+new mode 100755
+

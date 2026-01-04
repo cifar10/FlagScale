@@ -1,0 +1,4 @@
+diff --git a/flagscale/serve/args_mapping/mapping_funcs/llama_cpp.py b/flagscale/serve/args_mapping/mapping_funcs/llama_cpp.py
+old mode 100644
+new mode 100755
+

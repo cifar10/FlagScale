@@ -1,0 +1,11 @@
+diff --git a/hardware/Cambricon_MLU/FlagScale/examples/aquila/tokenizer_hf/tokenizer.json.patch b/hardware/Cambricon_MLU/FlagScale/examples/aquila/tokenizer_hf/tokenizer.json.patch
+new file mode 100644
+index 00000000..5e427ee8
+--- /dev/null
++++ b/hardware/Cambricon_MLU/FlagScale/examples/aquila/tokenizer_hf/tokenizer.json.patch
+@@ -0,0 +1,4 @@
++diff --git a/examples/aquila/tokenizer_hf/tokenizer.json b/examples/aquila/tokenizer_hf/tokenizer.json
++old mode 100644
++new mode 100755
++
+

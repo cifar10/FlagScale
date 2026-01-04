@@ -1,0 +1,19 @@
+diff --git a/hardware/Cambricon_MLU/FlagScale/flagscale/train/arguments.py.patch b/hardware/Cambricon_MLU/FlagScale/flagscale/train/arguments.py.patch
+index 8fcafe4c..cfb2ab49 100644
+--- a/hardware/Cambricon_MLU/FlagScale/flagscale/train/arguments.py.patch
++++ b/hardware/Cambricon_MLU/FlagScale/flagscale/train/arguments.py.patch
+@@ -1,5 +1,7 @@
+ diff --git a/flagscale/train/arguments.py b/flagscale/train/arguments.py
+-index 3ef28d28..d771f0de 100644
++old mode 100644
++new mode 100755
++index 98e31497..b8026cde
+ --- a/flagscale/train/arguments.py
+ +++ b/flagscale/train/arguments.py
+ @@ -63,7 +63,7 @@ class FSTrainArguments:
+@@ -11,3 +13,4 @@ index 3ef28d28..d771f0de 100644
+              # for communication based cpu
+              if args.enable_hetero and args.hetero_use_cpu_communication:
+                  # if not all(device_type == args.hetero_device_types[0] for device_type in args.hetero_device_types):
++
+

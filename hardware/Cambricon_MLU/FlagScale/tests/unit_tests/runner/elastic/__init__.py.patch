@@ -1,0 +1,4 @@
+diff --git a/tests/unit_tests/runner/elastic/__init__.py b/tests/unit_tests/runner/elastic/__init__.py
+old mode 100644
+new mode 100755
+

@@ -1,0 +1,4 @@
+diff --git a/tools/datasets/qwenvl/convert_custom_dataset_to_wds_chatml_str.py b/tools/datasets/qwenvl/convert_custom_dataset_to_wds_chatml_str.py
+old mode 100644
+new mode 100755
+

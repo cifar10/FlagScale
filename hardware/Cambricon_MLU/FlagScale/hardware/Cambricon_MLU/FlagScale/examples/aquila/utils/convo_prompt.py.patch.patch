@@ -1,0 +1,11 @@
+diff --git a/hardware/Cambricon_MLU/FlagScale/examples/aquila/utils/convo_prompt.py.patch b/hardware/Cambricon_MLU/FlagScale/examples/aquila/utils/convo_prompt.py.patch
+new file mode 100644
+index 00000000..eeed862c
+--- /dev/null
++++ b/hardware/Cambricon_MLU/FlagScale/examples/aquila/utils/convo_prompt.py.patch
+@@ -0,0 +1,4 @@
++diff --git a/examples/aquila/utils/convo_prompt.py b/examples/aquila/utils/convo_prompt.py
++old mode 100644
++new mode 100755
++
+

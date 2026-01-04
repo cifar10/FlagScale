@@ -1,0 +1,4 @@
+diff --git a/hardware/BI_V150/vllm/.buildkite/lm-eval-harness/run-lm-eval-gsm-vllm-baseline.sh.patch.encrypted b/hardware/BI_V150/vllm/.buildkite/lm-eval-harness/run-lm-eval-gsm-vllm-baseline.sh.patch.encrypted
+old mode 100644
+new mode 100755
+

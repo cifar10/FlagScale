@@ -1,0 +1,11 @@
+diff --git a/hardware/Cambricon_MLU/FlagScale/flagscale/train/models/qwen2_5_vl/vision_attention.py.patch b/hardware/Cambricon_MLU/FlagScale/flagscale/train/models/qwen2_5_vl/vision_attention.py.patch
+new file mode 100644
+index 00000000..c023ddce
+--- /dev/null
++++ b/hardware/Cambricon_MLU/FlagScale/flagscale/train/models/qwen2_5_vl/vision_attention.py.patch
+@@ -0,0 +1,4 @@
++diff --git a/flagscale/train/models/qwen2_5_vl/vision_attention.py b/flagscale/train/models/qwen2_5_vl/vision_attention.py
++old mode 100644
++new mode 100755
++
+

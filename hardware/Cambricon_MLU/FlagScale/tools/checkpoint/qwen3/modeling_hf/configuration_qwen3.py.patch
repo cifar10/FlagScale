@@ -1,0 +1,4 @@
+diff --git a/tools/checkpoint/qwen3/modeling_hf/configuration_qwen3.py b/tools/checkpoint/qwen3/modeling_hf/configuration_qwen3.py
+old mode 100644
+new mode 100755
+

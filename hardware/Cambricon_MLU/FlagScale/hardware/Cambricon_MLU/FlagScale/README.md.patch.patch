@@ -1,0 +1,11 @@
+diff --git a/hardware/Cambricon_MLU/FlagScale/README.md.patch b/hardware/Cambricon_MLU/FlagScale/README.md.patch
+new file mode 100644
+index 00000000..5f417340
+--- /dev/null
++++ b/hardware/Cambricon_MLU/FlagScale/README.md.patch
+@@ -0,0 +1,4 @@
++diff --git a/README.md b/README.md
++old mode 100644
++new mode 100755
++
+

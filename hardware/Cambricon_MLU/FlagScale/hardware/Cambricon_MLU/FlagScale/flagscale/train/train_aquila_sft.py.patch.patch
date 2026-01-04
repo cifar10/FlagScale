@@ -1,0 +1,11 @@
+diff --git a/hardware/Cambricon_MLU/FlagScale/flagscale/train/train_aquila_sft.py.patch b/hardware/Cambricon_MLU/FlagScale/flagscale/train/train_aquila_sft.py.patch
+new file mode 100644
+index 00000000..af8d9efa
+--- /dev/null
++++ b/hardware/Cambricon_MLU/FlagScale/flagscale/train/train_aquila_sft.py.patch
+@@ -0,0 +1,4 @@
++diff --git a/flagscale/train/train_aquila_sft.py b/flagscale/train/train_aquila_sft.py
++old mode 100644
++new mode 100755
++
+

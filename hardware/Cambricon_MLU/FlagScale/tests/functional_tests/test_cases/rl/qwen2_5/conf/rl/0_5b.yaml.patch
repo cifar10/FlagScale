@@ -1,0 +1,4 @@
+diff --git a/tests/functional_tests/test_cases/rl/qwen2_5/conf/rl/0_5b.yaml b/tests/functional_tests/test_cases/rl/qwen2_5/conf/rl/0_5b.yaml
+old mode 100644
+new mode 100755
+

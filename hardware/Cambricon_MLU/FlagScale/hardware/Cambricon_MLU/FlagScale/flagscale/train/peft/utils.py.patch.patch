@@ -1,0 +1,11 @@
+diff --git a/hardware/Cambricon_MLU/FlagScale/flagscale/train/peft/utils.py.patch b/hardware/Cambricon_MLU/FlagScale/flagscale/train/peft/utils.py.patch
+new file mode 100644
+index 00000000..73b82860
+--- /dev/null
++++ b/hardware/Cambricon_MLU/FlagScale/flagscale/train/peft/utils.py.patch
+@@ -0,0 +1,4 @@
++diff --git a/flagscale/train/peft/utils.py b/flagscale/train/peft/utils.py
++old mode 100644
++new mode 100755
++
+

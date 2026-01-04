@@ -1,0 +1,11 @@
+diff --git a/hardware/Cambricon_MLU/FlagScale/flagscale/train/dualpipev/dualpipev_schedules.py.patch b/hardware/Cambricon_MLU/FlagScale/flagscale/train/dualpipev/dualpipev_schedules.py.patch
+new file mode 100644
+index 00000000..16f87be6
+--- /dev/null
++++ b/hardware/Cambricon_MLU/FlagScale/flagscale/train/dualpipev/dualpipev_schedules.py.patch
+@@ -0,0 +1,4 @@
++diff --git a/flagscale/train/dualpipev/dualpipev_schedules.py b/flagscale/train/dualpipev/dualpipev_schedules.py
++old mode 100644
++new mode 100755
++
+

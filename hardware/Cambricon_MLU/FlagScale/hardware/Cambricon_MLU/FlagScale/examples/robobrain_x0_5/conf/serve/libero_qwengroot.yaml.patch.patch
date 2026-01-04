@@ -1,0 +1,11 @@
+diff --git a/hardware/Cambricon_MLU/FlagScale/examples/robobrain_x0_5/conf/serve/libero_qwengroot.yaml.patch b/hardware/Cambricon_MLU/FlagScale/examples/robobrain_x0_5/conf/serve/libero_qwengroot.yaml.patch
+new file mode 100644
+index 00000000..12f43209
+--- /dev/null
++++ b/hardware/Cambricon_MLU/FlagScale/examples/robobrain_x0_5/conf/serve/libero_qwengroot.yaml.patch
+@@ -0,0 +1,4 @@
++diff --git a/examples/robobrain_x0_5/conf/serve/libero_qwengroot.yaml b/examples/robobrain_x0_5/conf/serve/libero_qwengroot.yaml
++old mode 100644
++new mode 100755
++
+

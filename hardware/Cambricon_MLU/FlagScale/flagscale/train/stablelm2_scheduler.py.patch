@@ -1,0 +1,4 @@
+diff --git a/flagscale/train/stablelm2_scheduler.py b/flagscale/train/stablelm2_scheduler.py
+old mode 100644
+new mode 100755
+

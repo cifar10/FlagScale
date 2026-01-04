@@ -1,0 +1,4 @@
+diff --git a/tools/checkpoint/qwen3/ckpt.py b/tools/checkpoint/qwen3/ckpt.py
+old mode 100644
+new mode 100755
+

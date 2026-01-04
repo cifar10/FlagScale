@@ -1,0 +1,4 @@
+diff --git a/tools/checkpoint/rwkv/convert_ckpt.py b/tools/checkpoint/rwkv/convert_ckpt.py
+old mode 100644
+new mode 100755
+

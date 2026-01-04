@@ -1,0 +1,11 @@
+diff --git a/hardware/Cambricon_MLU/FlagScale/flagscale/serve/run_serve_robobrain_x0.5_libero.py.patch b/hardware/Cambricon_MLU/FlagScale/flagscale/serve/run_serve_robobrain_x0.5_libero.py.patch
+new file mode 100644
+index 00000000..3bd97917
+--- /dev/null
++++ b/hardware/Cambricon_MLU/FlagScale/flagscale/serve/run_serve_robobrain_x0.5_libero.py.patch
+@@ -0,0 +1,4 @@
++diff --git a/flagscale/serve/run_serve_robobrain_x0.5_libero.py b/flagscale/serve/run_serve_robobrain_x0.5_libero.py
++old mode 100644
++new mode 100755
++
+

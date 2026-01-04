@@ -1,0 +1,11 @@
+diff --git a/hardware/Cambricon_MLU/FlagScale/examples/aquila/conf/train/hetero.yaml.patch b/hardware/Cambricon_MLU/FlagScale/examples/aquila/conf/train/hetero.yaml.patch
+new file mode 100644
+index 00000000..5a8cef7f
+--- /dev/null
++++ b/hardware/Cambricon_MLU/FlagScale/examples/aquila/conf/train/hetero.yaml.patch
+@@ -0,0 +1,4 @@
++diff --git a/examples/aquila/conf/train/hetero.yaml b/examples/aquila/conf/train/hetero.yaml
++old mode 100644
++new mode 100755
++
+

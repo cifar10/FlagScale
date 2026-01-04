@@ -1,0 +1,4 @@
+diff --git a/examples/qwen_image/conf/inference.yaml b/examples/qwen_image/conf/inference.yaml
+old mode 100644
+new mode 100755
+

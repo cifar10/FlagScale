@@ -1,0 +1,4 @@
+diff --git a/hardware/Huawei_Atlas800TA3/sglang/python/sglang/srt/layers/moe/fused_moe_triton/configs/triton_3_4_0/E=257,N=128,device_name=NVIDIA_H100_80GB_HBM3,dtype=fp8_w8a8,block_shape=[128, 128].json.patch.encrypted b/hardware/Huawei_Atlas800TA3/sglang/python/sglang/srt/layers/moe/fused_moe_triton/configs/triton_3_4_0/E=257,N=128,device_name=NVIDIA_H100_80GB_HBM3,dtype=fp8_w8a8,block_shape=[128, 128].json.patch.encrypted
+old mode 100644
+new mode 100755
+

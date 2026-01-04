@@ -1,0 +1,11 @@
+diff --git a/hardware/Cambricon_MLU/FlagScale/examples/aquila/tokenizer/vocab.json.patch b/hardware/Cambricon_MLU/FlagScale/examples/aquila/tokenizer/vocab.json.patch
+new file mode 100644
+index 00000000..f0ba7ac0
+--- /dev/null
++++ b/hardware/Cambricon_MLU/FlagScale/examples/aquila/tokenizer/vocab.json.patch
+@@ -0,0 +1,4 @@
++diff --git a/examples/aquila/tokenizer/vocab.json b/examples/aquila/tokenizer/vocab.json
++old mode 100644
++new mode 100755
++
+

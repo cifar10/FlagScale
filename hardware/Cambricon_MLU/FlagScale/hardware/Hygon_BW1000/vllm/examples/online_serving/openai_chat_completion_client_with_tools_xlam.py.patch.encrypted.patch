@@ -1,0 +1,4 @@
+diff --git a/hardware/Hygon_BW1000/vllm/examples/online_serving/openai_chat_completion_client_with_tools_xlam.py.patch.encrypted b/hardware/Hygon_BW1000/vllm/examples/online_serving/openai_chat_completion_client_with_tools_xlam.py.patch.encrypted
+old mode 100644
+new mode 100755
+

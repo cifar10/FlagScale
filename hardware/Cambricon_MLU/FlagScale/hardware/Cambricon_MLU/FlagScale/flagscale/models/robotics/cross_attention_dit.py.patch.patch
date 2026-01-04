@@ -1,0 +1,11 @@
+diff --git a/hardware/Cambricon_MLU/FlagScale/flagscale/models/robotics/cross_attention_dit.py.patch b/hardware/Cambricon_MLU/FlagScale/flagscale/models/robotics/cross_attention_dit.py.patch
+new file mode 100644
+index 00000000..783091ca
+--- /dev/null
++++ b/hardware/Cambricon_MLU/FlagScale/flagscale/models/robotics/cross_attention_dit.py.patch
+@@ -0,0 +1,4 @@
++diff --git a/flagscale/models/robotics/cross_attention_dit.py b/flagscale/models/robotics/cross_attention_dit.py
++old mode 100644
++new mode 100755
++
+

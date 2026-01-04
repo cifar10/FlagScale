@@ -1,0 +1,4 @@
+diff --git a/hardware/Hygon_BW1000/vllm/examples/online_serving/disaggregated_serving_p2p_nccl_xpyd/disagg_example_p2p_nccl_xpyd.sh.patch.encrypted b/hardware/Hygon_BW1000/vllm/examples/online_serving/disaggregated_serving_p2p_nccl_xpyd/disagg_example_p2p_nccl_xpyd.sh.patch.encrypted
+old mode 100644
+new mode 100755
+

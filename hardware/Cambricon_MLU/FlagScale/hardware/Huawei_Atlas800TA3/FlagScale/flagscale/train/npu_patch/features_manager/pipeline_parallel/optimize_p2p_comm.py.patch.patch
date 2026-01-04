@@ -1,0 +1,4 @@
+diff --git a/hardware/Huawei_Atlas800TA3/FlagScale/flagscale/train/npu_patch/features_manager/pipeline_parallel/optimize_p2p_comm.py.patch b/hardware/Huawei_Atlas800TA3/FlagScale/flagscale/train/npu_patch/features_manager/pipeline_parallel/optimize_p2p_comm.py.patch
+old mode 100644
+new mode 100755
+

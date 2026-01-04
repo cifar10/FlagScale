@@ -1,0 +1,4 @@
+diff --git a/examples/qwen2_5/conf/serve.yaml b/examples/qwen2_5/conf/serve.yaml
+old mode 100644
+new mode 100755
+

@@ -1,0 +1,4 @@
+diff --git a/flagscale/runner/auto_tuner/prune/history.py b/flagscale/runner/auto_tuner/prune/history.py
+old mode 100644
+new mode 100755
+

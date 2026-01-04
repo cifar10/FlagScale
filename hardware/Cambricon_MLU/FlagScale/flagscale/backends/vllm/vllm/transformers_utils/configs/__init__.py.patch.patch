@@ -1,0 +1,4 @@
+diff --git a/flagscale/backends/vllm/vllm/transformers_utils/configs/__init__.py.patch b/flagscale/backends/vllm/vllm/transformers_utils/configs/__init__.py.patch
+old mode 100644
+new mode 100755
+

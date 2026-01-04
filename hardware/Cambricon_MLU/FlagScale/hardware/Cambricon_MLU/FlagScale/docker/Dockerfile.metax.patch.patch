@@ -1,0 +1,11 @@
+diff --git a/hardware/Cambricon_MLU/FlagScale/docker/Dockerfile.metax.patch b/hardware/Cambricon_MLU/FlagScale/docker/Dockerfile.metax.patch
+new file mode 100644
+index 00000000..92350431
+--- /dev/null
++++ b/hardware/Cambricon_MLU/FlagScale/docker/Dockerfile.metax.patch
+@@ -0,0 +1,4 @@
++diff --git a/docker/Dockerfile.metax b/docker/Dockerfile.metax
++old mode 100644
++new mode 100755
++
+

@@ -1,0 +1,11 @@
+diff --git a/hardware/Cambricon_MLU/FlagScale/hardware/Cambricon_MLU/vllm/examples/online_serving/openai_chat_completion_client_with_tools_xlam.py.patch.patch b/hardware/Cambricon_MLU/FlagScale/hardware/Cambricon_MLU/vllm/examples/online_serving/openai_chat_completion_client_with_tools_xlam.py.patch.patch
+new file mode 100644
+index 00000000..5506c81b
+--- /dev/null
++++ b/hardware/Cambricon_MLU/FlagScale/hardware/Cambricon_MLU/vllm/examples/online_serving/openai_chat_completion_client_with_tools_xlam.py.patch.patch
+@@ -0,0 +1,4 @@
++diff --git a/hardware/Cambricon_MLU/vllm/examples/online_serving/openai_chat_completion_client_with_tools_xlam.py.patch b/hardware/Cambricon_MLU/vllm/examples/online_serving/openai_chat_completion_client_with_tools_xlam.py.patch
++old mode 100644
++new mode 100755
++
+

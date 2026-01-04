@@ -1,0 +1,11 @@
+diff --git a/hardware/Cambricon_MLU/FlagScale/hardware/BI_V150/vllm/build_pip/vllm-0.10.1+corex.4.4.0.rc.11.20251201-py3-none-any.whl.patch.encrypted.patch b/hardware/Cambricon_MLU/FlagScale/hardware/BI_V150/vllm/build_pip/vllm-0.10.1+corex.4.4.0.rc.11.20251201-py3-none-any.whl.patch.encrypted.patch
+new file mode 100644
+index 00000000..7c4b21c0
+--- /dev/null
++++ b/hardware/Cambricon_MLU/FlagScale/hardware/BI_V150/vllm/build_pip/vllm-0.10.1+corex.4.4.0.rc.11.20251201-py3-none-any.whl.patch.encrypted.patch
+@@ -0,0 +1,4 @@
++diff --git a/hardware/BI_V150/vllm/build_pip/vllm-0.10.1+corex.4.4.0.rc.11.20251201-py3-none-any.whl.patch.encrypted b/hardware/BI_V150/vllm/build_pip/vllm-0.10.1+corex.4.4.0.rc.11.20251201-py3-none-any.whl.patch.encrypted
++old mode 100644
++new mode 100755
++
+

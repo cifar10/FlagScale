@@ -1,0 +1,4 @@
+diff --git a/flagscale/train/hetero/p2p_communication.py b/flagscale/train/hetero/p2p_communication.py
+old mode 100644
+new mode 100755
+

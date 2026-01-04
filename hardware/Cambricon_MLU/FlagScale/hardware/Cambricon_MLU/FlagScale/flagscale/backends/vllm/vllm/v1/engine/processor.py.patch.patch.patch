@@ -1,0 +1,11 @@
+diff --git a/hardware/Cambricon_MLU/FlagScale/flagscale/backends/vllm/vllm/v1/engine/processor.py.patch.patch b/hardware/Cambricon_MLU/FlagScale/flagscale/backends/vllm/vllm/v1/engine/processor.py.patch.patch
+new file mode 100644
+index 00000000..540664b3
+--- /dev/null
++++ b/hardware/Cambricon_MLU/FlagScale/flagscale/backends/vllm/vllm/v1/engine/processor.py.patch.patch
+@@ -0,0 +1,4 @@
++diff --git a/flagscale/backends/vllm/vllm/v1/engine/processor.py.patch b/flagscale/backends/vllm/vllm/v1/engine/processor.py.patch
++old mode 100644
++new mode 100755
++
+

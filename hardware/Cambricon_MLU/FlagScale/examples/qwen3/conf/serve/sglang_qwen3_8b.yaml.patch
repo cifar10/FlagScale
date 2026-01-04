@@ -1,0 +1,4 @@
+diff --git a/examples/qwen3/conf/serve/sglang_qwen3_8b.yaml b/examples/qwen3/conf/serve/sglang_qwen3_8b.yaml
+old mode 100644
+new mode 100755
+

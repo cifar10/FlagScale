@@ -1,0 +1,4 @@
+diff --git a/hardware/NVIDIA_CambriconMLU/Megatron-LM/megatron/core/datasets/utils.py.patch b/hardware/NVIDIA_CambriconMLU/Megatron-LM/megatron/core/datasets/utils.py.patch
+old mode 100644
+new mode 100755
+

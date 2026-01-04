@@ -1,0 +1,11 @@
+diff --git a/hardware/Cambricon_MLU/FlagScale/LICENSE.patch b/hardware/Cambricon_MLU/FlagScale/LICENSE.patch
+new file mode 100644
+index 00000000..dd1e56a2
+--- /dev/null
++++ b/hardware/Cambricon_MLU/FlagScale/LICENSE.patch
+@@ -0,0 +1,4 @@
++diff --git a/LICENSE b/LICENSE
++old mode 100644
++new mode 100755
++
+

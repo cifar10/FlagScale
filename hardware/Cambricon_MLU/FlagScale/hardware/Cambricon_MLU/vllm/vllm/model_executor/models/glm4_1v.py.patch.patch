@@ -1,0 +1,4 @@
+diff --git a/hardware/Cambricon_MLU/vllm/vllm/model_executor/models/glm4_1v.py.patch b/hardware/Cambricon_MLU/vllm/vllm/model_executor/models/glm4_1v.py.patch
+old mode 100644
+new mode 100755
+

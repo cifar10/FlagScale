@@ -1,0 +1,4 @@
+diff --git a/flagscale/serve/data_process/action_chunk_to_fast_token.py b/flagscale/serve/data_process/action_chunk_to_fast_token.py
+old mode 100644
+new mode 100755
+

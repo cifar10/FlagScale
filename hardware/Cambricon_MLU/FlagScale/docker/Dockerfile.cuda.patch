@@ -1,0 +1,4 @@
+diff --git a/docker/Dockerfile.cuda b/docker/Dockerfile.cuda
+old mode 100644
+new mode 100755
+

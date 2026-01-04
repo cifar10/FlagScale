@@ -1,0 +1,4 @@
+diff --git a/tests/functional_tests/test_cases/inference/opi_llama3_1_instruct-flaggems-metax/conf/inference/8b-tp2.yaml b/tests/functional_tests/test_cases/inference/opi_llama3_1_instruct-flaggems-metax/conf/inference/8b-tp2.yaml
+old mode 100644
+new mode 100755
+

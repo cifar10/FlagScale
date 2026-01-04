@@ -1,0 +1,11 @@
+diff --git a/hardware/Cambricon_MLU/FlagScale/flagscale/inference/emu_utils/prompt_case.py.patch b/hardware/Cambricon_MLU/FlagScale/flagscale/inference/emu_utils/prompt_case.py.patch
+new file mode 100644
+index 00000000..2f583ca5
+--- /dev/null
++++ b/hardware/Cambricon_MLU/FlagScale/flagscale/inference/emu_utils/prompt_case.py.patch
+@@ -0,0 +1,4 @@
++diff --git a/flagscale/inference/emu_utils/prompt_case.py b/flagscale/inference/emu_utils/prompt_case.py
++old mode 100644
++new mode 100755
++
+

@@ -1,0 +1,11 @@
+diff --git a/hardware/Cambricon_MLU/FlagScale/hardware/BI_V150/vllm/vllm/v1/worker/utils.py.patch.encrypted.patch b/hardware/Cambricon_MLU/FlagScale/hardware/BI_V150/vllm/vllm/v1/worker/utils.py.patch.encrypted.patch
+new file mode 100644
+index 00000000..dd6ee119
+--- /dev/null
++++ b/hardware/Cambricon_MLU/FlagScale/hardware/BI_V150/vllm/vllm/v1/worker/utils.py.patch.encrypted.patch
+@@ -0,0 +1,4 @@
++diff --git a/hardware/BI_V150/vllm/vllm/v1/worker/utils.py.patch.encrypted b/hardware/BI_V150/vllm/vllm/v1/worker/utils.py.patch.encrypted
++old mode 100644
++new mode 100755
++
+

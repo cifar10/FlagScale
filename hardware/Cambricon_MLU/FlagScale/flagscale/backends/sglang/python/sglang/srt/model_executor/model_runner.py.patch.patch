@@ -1,0 +1,4 @@
+diff --git a/flagscale/backends/sglang/python/sglang/srt/model_executor/model_runner.py.patch b/flagscale/backends/sglang/python/sglang/srt/model_executor/model_runner.py.patch
+old mode 100644
+new mode 100755
+

@@ -1,0 +1,11 @@
+diff --git a/hardware/Cambricon_MLU/FlagScale/flagscale/train/datasets/concated_indexed_dataset.py.patch b/hardware/Cambricon_MLU/FlagScale/flagscale/train/datasets/concated_indexed_dataset.py.patch
+new file mode 100644
+index 00000000..527377bd
+--- /dev/null
++++ b/hardware/Cambricon_MLU/FlagScale/flagscale/train/datasets/concated_indexed_dataset.py.patch
+@@ -0,0 +1,4 @@
++diff --git a/flagscale/train/datasets/concated_indexed_dataset.py b/flagscale/train/datasets/concated_indexed_dataset.py
++old mode 100644
++new mode 100755
++
+

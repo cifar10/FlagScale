@@ -1,0 +1,4 @@
+diff --git a/hardware/Cambricon_MLU/vllm/.github/workflows/lint-and-deploy.yaml.patch b/hardware/Cambricon_MLU/vllm/.github/workflows/lint-and-deploy.yaml.patch
+old mode 100644
+new mode 100755
+

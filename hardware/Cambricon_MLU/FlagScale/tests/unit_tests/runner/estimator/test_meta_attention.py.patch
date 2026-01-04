@@ -1,0 +1,4 @@
+diff --git a/tests/unit_tests/runner/estimator/test_meta_attention.py b/tests/unit_tests/runner/estimator/test_meta_attention.py
+old mode 100644
+new mode 100755
+

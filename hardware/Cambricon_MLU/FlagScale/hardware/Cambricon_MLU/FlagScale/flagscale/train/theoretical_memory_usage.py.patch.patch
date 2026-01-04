@@ -1,0 +1,11 @@
+diff --git a/hardware/Cambricon_MLU/FlagScale/flagscale/train/theoretical_memory_usage.py.patch b/hardware/Cambricon_MLU/FlagScale/flagscale/train/theoretical_memory_usage.py.patch
+new file mode 100644
+index 00000000..4a4abbf6
+--- /dev/null
++++ b/hardware/Cambricon_MLU/FlagScale/flagscale/train/theoretical_memory_usage.py.patch
+@@ -0,0 +1,4 @@
++diff --git a/flagscale/train/theoretical_memory_usage.py b/flagscale/train/theoretical_memory_usage.py
++old mode 100644
++new mode 100755
++
+

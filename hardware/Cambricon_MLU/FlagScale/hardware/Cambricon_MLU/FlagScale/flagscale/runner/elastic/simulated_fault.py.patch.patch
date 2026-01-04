@@ -1,0 +1,11 @@
+diff --git a/hardware/Cambricon_MLU/FlagScale/flagscale/runner/elastic/simulated_fault.py.patch b/hardware/Cambricon_MLU/FlagScale/flagscale/runner/elastic/simulated_fault.py.patch
+new file mode 100644
+index 00000000..c68a5a1f
+--- /dev/null
++++ b/hardware/Cambricon_MLU/FlagScale/flagscale/runner/elastic/simulated_fault.py.patch
+@@ -0,0 +1,4 @@
++diff --git a/flagscale/runner/elastic/simulated_fault.py b/flagscale/runner/elastic/simulated_fault.py
++old mode 100644
++new mode 100755
++
+

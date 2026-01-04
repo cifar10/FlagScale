@@ -1,0 +1,4 @@
+diff --git a/hardware/Metax_C550/Megatron-LM/megatron/core/datasets/blended_dataset.py.patch b/hardware/Metax_C550/Megatron-LM/megatron/core/datasets/blended_dataset.py.patch
+old mode 100644
+new mode 100755
+

@@ -1,0 +1,4 @@
+diff --git a/hardware/Huawei_Atlas800TA3/FlagScale/examples/qwen2_5_vl/conf/train.yaml.patch b/hardware/Huawei_Atlas800TA3/FlagScale/examples/qwen2_5_vl/conf/train.yaml.patch
+old mode 100644
+new mode 100755
+

@@ -1,0 +1,11 @@
+diff --git a/hardware/Cambricon_MLU/FlagScale/flagscale/compress/combined_algo.py.patch b/hardware/Cambricon_MLU/FlagScale/flagscale/compress/combined_algo.py.patch
+new file mode 100644
+index 00000000..89789216
+--- /dev/null
++++ b/hardware/Cambricon_MLU/FlagScale/flagscale/compress/combined_algo.py.patch
+@@ -0,0 +1,4 @@
++diff --git a/flagscale/compress/combined_algo.py b/flagscale/compress/combined_algo.py
++old mode 100644
++new mode 100755
++
+

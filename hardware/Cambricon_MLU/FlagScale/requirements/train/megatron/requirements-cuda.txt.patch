@@ -1,0 +1,4 @@
+diff --git a/requirements/train/megatron/requirements-cuda.txt b/requirements/train/megatron/requirements-cuda.txt
+old mode 100644
+new mode 100755
+

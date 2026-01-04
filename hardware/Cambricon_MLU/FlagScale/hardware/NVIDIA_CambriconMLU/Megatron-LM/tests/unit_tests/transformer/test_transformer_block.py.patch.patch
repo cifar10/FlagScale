@@ -1,0 +1,4 @@
+diff --git a/hardware/NVIDIA_CambriconMLU/Megatron-LM/tests/unit_tests/transformer/test_transformer_block.py.patch b/hardware/NVIDIA_CambriconMLU/Megatron-LM/tests/unit_tests/transformer/test_transformer_block.py.patch
+old mode 100644
+new mode 100755
+

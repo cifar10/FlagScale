@@ -1,0 +1,4 @@
+diff --git a/examples/rwkv/tokenizer/__init__.py b/examples/rwkv/tokenizer/__init__.py
+old mode 100644
+new mode 100755
+

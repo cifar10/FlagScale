@@ -1,0 +1,4 @@
+diff --git a/hardware/Kunlunxin_R310p/vllm/csrc/mamba/causal_conv1d/causal_conv1d.cu.patch.encrypted b/hardware/Kunlunxin_R310p/vllm/csrc/mamba/causal_conv1d/causal_conv1d.cu.patch.encrypted
+old mode 100644
+new mode 100755
+

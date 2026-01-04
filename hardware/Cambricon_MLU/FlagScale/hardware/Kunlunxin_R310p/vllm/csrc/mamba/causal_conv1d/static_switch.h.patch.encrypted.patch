@@ -1,0 +1,4 @@
+diff --git a/hardware/Kunlunxin_R310p/vllm/csrc/mamba/causal_conv1d/static_switch.h.patch.encrypted b/hardware/Kunlunxin_R310p/vllm/csrc/mamba/causal_conv1d/static_switch.h.patch.encrypted
+old mode 100644
+new mode 100755
+

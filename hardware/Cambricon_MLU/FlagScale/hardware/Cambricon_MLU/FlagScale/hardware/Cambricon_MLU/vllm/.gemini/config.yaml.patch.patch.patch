@@ -1,0 +1,11 @@
+diff --git a/hardware/Cambricon_MLU/FlagScale/hardware/Cambricon_MLU/vllm/.gemini/config.yaml.patch.patch b/hardware/Cambricon_MLU/FlagScale/hardware/Cambricon_MLU/vllm/.gemini/config.yaml.patch.patch
+new file mode 100644
+index 00000000..e29d0c86
+--- /dev/null
++++ b/hardware/Cambricon_MLU/FlagScale/hardware/Cambricon_MLU/vllm/.gemini/config.yaml.patch.patch
+@@ -0,0 +1,4 @@
++diff --git a/hardware/Cambricon_MLU/vllm/.gemini/config.yaml.patch b/hardware/Cambricon_MLU/vllm/.gemini/config.yaml.patch
++old mode 100644
++new mode 100755
++
+

@@ -1,0 +1,11 @@
+diff --git a/hardware/Cambricon_MLU/FlagScale/flagopen.png.patch b/hardware/Cambricon_MLU/FlagScale/flagopen.png.patch
+new file mode 100644
+index 00000000..676ff4a9
+--- /dev/null
++++ b/hardware/Cambricon_MLU/FlagScale/flagopen.png.patch
+@@ -0,0 +1,4 @@
++diff --git a/flagopen.png b/flagopen.png
++old mode 100644
++new mode 100755
++
+

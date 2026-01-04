@@ -1,0 +1,11 @@
+diff --git a/hardware/Cambricon_MLU/FlagScale/flagscale/backends/vllm/vllm/model_executor/models/siglip.py.patch.patch b/hardware/Cambricon_MLU/FlagScale/flagscale/backends/vllm/vllm/model_executor/models/siglip.py.patch.patch
+new file mode 100644
+index 00000000..472d73f5
+--- /dev/null
++++ b/hardware/Cambricon_MLU/FlagScale/flagscale/backends/vllm/vllm/model_executor/models/siglip.py.patch.patch
+@@ -0,0 +1,4 @@
++diff --git a/flagscale/backends/vllm/vllm/model_executor/models/siglip.py.patch b/flagscale/backends/vllm/vllm/model_executor/models/siglip.py.patch
++old mode 100644
++new mode 100755
++
+

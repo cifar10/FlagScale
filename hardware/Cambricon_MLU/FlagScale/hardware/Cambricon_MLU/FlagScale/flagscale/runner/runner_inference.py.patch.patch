@@ -1,0 +1,11 @@
+diff --git a/hardware/Cambricon_MLU/FlagScale/flagscale/runner/runner_inference.py.patch b/hardware/Cambricon_MLU/FlagScale/flagscale/runner/runner_inference.py.patch
+new file mode 100644
+index 00000000..7790fde3
+--- /dev/null
++++ b/hardware/Cambricon_MLU/FlagScale/flagscale/runner/runner_inference.py.patch
+@@ -0,0 +1,4 @@
++diff --git a/flagscale/runner/runner_inference.py b/flagscale/runner/runner_inference.py
++old mode 100644
++new mode 100755
++
+

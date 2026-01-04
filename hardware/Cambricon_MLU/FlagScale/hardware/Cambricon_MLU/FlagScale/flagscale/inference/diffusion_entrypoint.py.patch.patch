@@ -1,0 +1,11 @@
+diff --git a/hardware/Cambricon_MLU/FlagScale/flagscale/inference/diffusion_entrypoint.py.patch b/hardware/Cambricon_MLU/FlagScale/flagscale/inference/diffusion_entrypoint.py.patch
+new file mode 100644
+index 00000000..442df685
+--- /dev/null
++++ b/hardware/Cambricon_MLU/FlagScale/flagscale/inference/diffusion_entrypoint.py.patch
+@@ -0,0 +1,4 @@
++diff --git a/flagscale/inference/diffusion_entrypoint.py b/flagscale/inference/diffusion_entrypoint.py
++old mode 100644
++new mode 100755
++
+

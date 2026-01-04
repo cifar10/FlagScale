@@ -1,0 +1,4 @@
+diff --git a/hardware/Huawei_Atlas800TA3/Megatron-LM/megatron/core/transformer/transformer_block.py.patch b/hardware/Huawei_Atlas800TA3/Megatron-LM/megatron/core/transformer/transformer_block.py.patch
+old mode 100644
+new mode 100755
+

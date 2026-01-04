@@ -1,0 +1,11 @@
+diff --git a/hardware/Cambricon_MLU/FlagScale/hardware/Cambricon_MLU/vllm/tests/v1/engine/test_fast_incdec_prefix_err.py.patch.patch b/hardware/Cambricon_MLU/FlagScale/hardware/Cambricon_MLU/vllm/tests/v1/engine/test_fast_incdec_prefix_err.py.patch.patch
+new file mode 100644
+index 00000000..783100bc
+--- /dev/null
++++ b/hardware/Cambricon_MLU/FlagScale/hardware/Cambricon_MLU/vllm/tests/v1/engine/test_fast_incdec_prefix_err.py.patch.patch
+@@ -0,0 +1,4 @@
++diff --git a/hardware/Cambricon_MLU/vllm/tests/v1/engine/test_fast_incdec_prefix_err.py.patch b/hardware/Cambricon_MLU/vllm/tests/v1/engine/test_fast_incdec_prefix_err.py.patch
++old mode 100644
++new mode 100755
++
+

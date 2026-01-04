@@ -1,0 +1,11 @@
+diff --git a/hardware/Cambricon_MLU/FlagScale/flagscale/backends/sglang/python/sglang/srt/model_executor/model_runner.py.patch.patch b/hardware/Cambricon_MLU/FlagScale/flagscale/backends/sglang/python/sglang/srt/model_executor/model_runner.py.patch.patch
+new file mode 100644
+index 00000000..4b66b58c
+--- /dev/null
++++ b/hardware/Cambricon_MLU/FlagScale/flagscale/backends/sglang/python/sglang/srt/model_executor/model_runner.py.patch.patch
+@@ -0,0 +1,4 @@
++diff --git a/flagscale/backends/sglang/python/sglang/srt/model_executor/model_runner.py.patch b/flagscale/backends/sglang/python/sglang/srt/model_executor/model_runner.py.patch
++old mode 100644
++new mode 100755
++
+

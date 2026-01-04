@@ -1,0 +1,4 @@
+diff --git a/hardware/BI_V150/vllm/tests/weight_loading/run_model_weight_loading_test.sh.patch.encrypted b/hardware/BI_V150/vllm/tests/weight_loading/run_model_weight_loading_test.sh.patch.encrypted
+old mode 100644
+new mode 100755
+

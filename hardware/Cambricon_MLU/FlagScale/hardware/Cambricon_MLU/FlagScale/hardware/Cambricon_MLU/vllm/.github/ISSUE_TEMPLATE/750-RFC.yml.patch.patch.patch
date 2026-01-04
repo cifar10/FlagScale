@@ -1,0 +1,11 @@
+diff --git a/hardware/Cambricon_MLU/FlagScale/hardware/Cambricon_MLU/vllm/.github/ISSUE_TEMPLATE/750-RFC.yml.patch.patch b/hardware/Cambricon_MLU/FlagScale/hardware/Cambricon_MLU/vllm/.github/ISSUE_TEMPLATE/750-RFC.yml.patch.patch
+new file mode 100644
+index 00000000..f1554ab1
+--- /dev/null
++++ b/hardware/Cambricon_MLU/FlagScale/hardware/Cambricon_MLU/vllm/.github/ISSUE_TEMPLATE/750-RFC.yml.patch.patch
+@@ -0,0 +1,4 @@
++diff --git a/hardware/Cambricon_MLU/vllm/.github/ISSUE_TEMPLATE/750-RFC.yml.patch b/hardware/Cambricon_MLU/vllm/.github/ISSUE_TEMPLATE/750-RFC.yml.patch
++old mode 100644
++new mode 100755
++
+

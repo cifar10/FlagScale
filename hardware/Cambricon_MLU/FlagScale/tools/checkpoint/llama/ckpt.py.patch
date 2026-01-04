@@ -1,0 +1,4 @@
+diff --git a/tools/checkpoint/llama/ckpt.py b/tools/checkpoint/llama/ckpt.py
+old mode 100644
+new mode 100755
+

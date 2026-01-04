@@ -1,0 +1,4 @@
+diff --git a/hardware/Kunlunxin_R310p/vllm/xvllm/vllm_xpu/attention/backends/kunlun_mla.py.patch.encrypted b/hardware/Kunlunxin_R310p/vllm/xvllm/vllm_xpu/attention/backends/kunlun_mla.py.patch.encrypted
+old mode 100644
+new mode 100755
+

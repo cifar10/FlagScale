@@ -1,0 +1,4 @@
+diff --git a/hardware/Huawei_Atlas800TA3/sglang/benchmark/kernels/flashinfer_allreduce_fusion/benchmark_fused_collective.py.patch.encrypted b/hardware/Huawei_Atlas800TA3/sglang/benchmark/kernels/flashinfer_allreduce_fusion/benchmark_fused_collective.py.patch.encrypted
+old mode 100644
+new mode 100755
+

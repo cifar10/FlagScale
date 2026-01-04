@@ -1,0 +1,4 @@
+diff --git a/hardware/Cambricon_MLU/vllm/vllm/v1/structured_output/utils.py.patch b/hardware/Cambricon_MLU/vllm/vllm/v1/structured_output/utils.py.patch
+old mode 100644
+new mode 100755
+

@@ -1,0 +1,4 @@
+diff --git a/hardware/Cambricon_MLU/vllm/.buildkite/lm-eval-harness/run-lm-eval-gsm-hf-baseline.sh.patch b/hardware/Cambricon_MLU/vllm/.buildkite/lm-eval-harness/run-lm-eval-gsm-hf-baseline.sh.patch
+old mode 100644
+new mode 100755
+

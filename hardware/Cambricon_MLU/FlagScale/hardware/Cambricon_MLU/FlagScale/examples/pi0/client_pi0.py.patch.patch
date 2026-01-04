@@ -1,0 +1,11 @@
+diff --git a/hardware/Cambricon_MLU/FlagScale/examples/pi0/client_pi0.py.patch b/hardware/Cambricon_MLU/FlagScale/examples/pi0/client_pi0.py.patch
+new file mode 100644
+index 00000000..48b5dbbb
+--- /dev/null
++++ b/hardware/Cambricon_MLU/FlagScale/examples/pi0/client_pi0.py.patch
+@@ -0,0 +1,4 @@
++diff --git a/examples/pi0/client_pi0.py b/examples/pi0/client_pi0.py
++old mode 100644
++new mode 100755
++
+

@@ -1,0 +1,11 @@
+diff --git a/hardware/Cambricon_MLU/FlagScale/flagscale/models/robotics/groot_action_header.py.patch b/hardware/Cambricon_MLU/FlagScale/flagscale/models/robotics/groot_action_header.py.patch
+new file mode 100644
+index 00000000..b99f2a04
+--- /dev/null
++++ b/hardware/Cambricon_MLU/FlagScale/flagscale/models/robotics/groot_action_header.py.patch
+@@ -0,0 +1,4 @@
++diff --git a/flagscale/models/robotics/groot_action_header.py b/flagscale/models/robotics/groot_action_header.py
++old mode 100644
++new mode 100755
++
+

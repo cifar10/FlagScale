@@ -1,0 +1,4 @@
+diff --git a/hardware/BI_V150/vllm/tools/profiler/nsys_profile_tools/gputrc2graph.py.patch.encrypted b/hardware/BI_V150/vllm/tools/profiler/nsys_profile_tools/gputrc2graph.py.patch.encrypted
+old mode 100644
+new mode 100755
+

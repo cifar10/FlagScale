@@ -1,0 +1,11 @@
+diff --git a/hardware/Cambricon_MLU/FlagScale/hardware/Cambricon_MLU/vllm/.github/PULL_REQUEST_TEMPLATE.md.patch.patch b/hardware/Cambricon_MLU/FlagScale/hardware/Cambricon_MLU/vllm/.github/PULL_REQUEST_TEMPLATE.md.patch.patch
+new file mode 100644
+index 00000000..d82fab1e
+--- /dev/null
++++ b/hardware/Cambricon_MLU/FlagScale/hardware/Cambricon_MLU/vllm/.github/PULL_REQUEST_TEMPLATE.md.patch.patch
+@@ -0,0 +1,4 @@
++diff --git a/hardware/Cambricon_MLU/vllm/.github/PULL_REQUEST_TEMPLATE.md.patch b/hardware/Cambricon_MLU/vllm/.github/PULL_REQUEST_TEMPLATE.md.patch
++old mode 100644
++new mode 100755
++
+

@@ -1,0 +1,4 @@
+diff --git a/hardware/Hygon_BW1000/vllm/vllm/attention/backends/configs/QH=8_KVH=1_QKD=576_VD=512_fp16_K100AI.json.patch.encrypted b/hardware/Hygon_BW1000/vllm/vllm/attention/backends/configs/QH=8_KVH=1_QKD=576_VD=512_fp16_K100AI.json.patch.encrypted
+old mode 100644
+new mode 100755
+

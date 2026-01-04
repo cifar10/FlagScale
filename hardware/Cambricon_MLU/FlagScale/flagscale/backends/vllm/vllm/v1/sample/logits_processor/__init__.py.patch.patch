@@ -1,0 +1,4 @@
+diff --git a/flagscale/backends/vllm/vllm/v1/sample/logits_processor/__init__.py.patch b/flagscale/backends/vllm/vllm/v1/sample/logits_processor/__init__.py.patch
+old mode 100644
+new mode 100755
+

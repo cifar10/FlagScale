@@ -1,0 +1,11 @@
+diff --git a/hardware/Cambricon_MLU/FlagScale/flagscale/backends/llama.cpp/README.md.patch b/hardware/Cambricon_MLU/FlagScale/flagscale/backends/llama.cpp/README.md.patch
+new file mode 100644
+index 00000000..a02530d1
+--- /dev/null
++++ b/hardware/Cambricon_MLU/FlagScale/flagscale/backends/llama.cpp/README.md.patch
+@@ -0,0 +1,4 @@
++diff --git a/flagscale/backends/llama.cpp/README.md b/flagscale/backends/llama.cpp/README.md
++old mode 100644
++new mode 100755
++
+

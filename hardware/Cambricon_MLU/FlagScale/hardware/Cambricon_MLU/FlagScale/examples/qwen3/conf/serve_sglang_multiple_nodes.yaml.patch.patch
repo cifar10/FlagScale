@@ -1,0 +1,11 @@
+diff --git a/hardware/Cambricon_MLU/FlagScale/examples/qwen3/conf/serve_sglang_multiple_nodes.yaml.patch b/hardware/Cambricon_MLU/FlagScale/examples/qwen3/conf/serve_sglang_multiple_nodes.yaml.patch
+new file mode 100644
+index 00000000..8729de0a
+--- /dev/null
++++ b/hardware/Cambricon_MLU/FlagScale/examples/qwen3/conf/serve_sglang_multiple_nodes.yaml.patch
+@@ -0,0 +1,4 @@
++diff --git a/examples/qwen3/conf/serve_sglang_multiple_nodes.yaml b/examples/qwen3/conf/serve_sglang_multiple_nodes.yaml
++old mode 100644
++new mode 100755
++
+

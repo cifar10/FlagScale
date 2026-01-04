@@ -1,0 +1,11 @@
+diff --git a/hardware/Cambricon_MLU/FlagScale/hardware/Cambricon_MLU/vllm/.buildkite/lm-eval-harness/configs/models-large.txt.patch.patch b/hardware/Cambricon_MLU/FlagScale/hardware/Cambricon_MLU/vllm/.buildkite/lm-eval-harness/configs/models-large.txt.patch.patch
+new file mode 100644
+index 00000000..3b02fc15
+--- /dev/null
++++ b/hardware/Cambricon_MLU/FlagScale/hardware/Cambricon_MLU/vllm/.buildkite/lm-eval-harness/configs/models-large.txt.patch.patch
+@@ -0,0 +1,4 @@
++diff --git a/hardware/Cambricon_MLU/vllm/.buildkite/lm-eval-harness/configs/models-large.txt.patch b/hardware/Cambricon_MLU/vllm/.buildkite/lm-eval-harness/configs/models-large.txt.patch
++old mode 100644
++new mode 100755
++
+

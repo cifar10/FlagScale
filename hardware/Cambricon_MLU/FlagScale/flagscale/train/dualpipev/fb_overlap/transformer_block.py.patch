@@ -1,0 +1,4 @@
+diff --git a/flagscale/train/dualpipev/fb_overlap/transformer_block.py b/flagscale/train/dualpipev/fb_overlap/transformer_block.py
+old mode 100644
+new mode 100755
+

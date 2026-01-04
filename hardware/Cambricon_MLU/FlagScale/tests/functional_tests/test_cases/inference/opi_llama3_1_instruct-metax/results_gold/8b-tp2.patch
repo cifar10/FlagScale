@@ -1,0 +1,4 @@
+diff --git a/tests/functional_tests/test_cases/inference/opi_llama3_1_instruct-metax/results_gold/8b-tp2 b/tests/functional_tests/test_cases/inference/opi_llama3_1_instruct-metax/results_gold/8b-tp2
+old mode 100644
+new mode 100755
+

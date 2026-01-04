@@ -1,0 +1,4 @@
+diff --git a/hardware/Kunlunxin_R310p/vllm/vllm/spec_decode/mlp_speculator_worker.py.patch.encrypted b/hardware/Kunlunxin_R310p/vllm/vllm/spec_decode/mlp_speculator_worker.py.patch.encrypted
+old mode 100644
+new mode 100755
+

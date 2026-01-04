@@ -1,0 +1,11 @@
+diff --git a/hardware/Cambricon_MLU/FlagScale/flagscale/train/hetero/parallel_context.py.patch b/hardware/Cambricon_MLU/FlagScale/flagscale/train/hetero/parallel_context.py.patch
+new file mode 100644
+index 00000000..f907bc7a
+--- /dev/null
++++ b/hardware/Cambricon_MLU/FlagScale/flagscale/train/hetero/parallel_context.py.patch
+@@ -0,0 +1,4 @@
++diff --git a/flagscale/train/hetero/parallel_context.py b/flagscale/train/hetero/parallel_context.py
++old mode 100644
++new mode 100755
++
+

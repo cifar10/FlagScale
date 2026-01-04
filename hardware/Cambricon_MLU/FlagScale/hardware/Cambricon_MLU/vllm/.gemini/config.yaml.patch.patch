@@ -1,0 +1,4 @@
+diff --git a/hardware/Cambricon_MLU/vllm/.gemini/config.yaml.patch b/hardware/Cambricon_MLU/vllm/.gemini/config.yaml.patch
+old mode 100644
+new mode 100755
+

@@ -1,0 +1,4 @@
+diff --git a/hardware/NVIDIA_CambriconMLU/Megatron-LM/megatron/core/models/common/language_module/language_module.py.patch b/hardware/NVIDIA_CambriconMLU/Megatron-LM/megatron/core/models/common/language_module/language_module.py.patch
+old mode 100644
+new mode 100755
+

@@ -1,0 +1,11 @@
+diff --git a/hardware/Cambricon_MLU/FlagScale/flagscale/train/__init__.py.patch b/hardware/Cambricon_MLU/FlagScale/flagscale/train/__init__.py.patch
+new file mode 100644
+index 00000000..d82dcf6b
+--- /dev/null
++++ b/hardware/Cambricon_MLU/FlagScale/flagscale/train/__init__.py.patch
+@@ -0,0 +1,4 @@
++diff --git a/flagscale/train/__init__.py b/flagscale/train/__init__.py
++old mode 100644
++new mode 100755
++
+

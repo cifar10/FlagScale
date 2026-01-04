@@ -1,0 +1,4 @@
+diff --git a/hardware/Huawei_Atlas800TA3/sglang/sgl-kernel/csrc/cpu/torch_extension_cpu.cpp.patch.encrypted b/hardware/Huawei_Atlas800TA3/sglang/sgl-kernel/csrc/cpu/torch_extension_cpu.cpp.patch.encrypted
+old mode 100644
+new mode 100755
+

@@ -1,0 +1,11 @@
+diff --git a/hardware/Cambricon_MLU/FlagScale/examples/aquila/tokenizer/special_tokens.txt.patch b/hardware/Cambricon_MLU/FlagScale/examples/aquila/tokenizer/special_tokens.txt.patch
+new file mode 100644
+index 00000000..8b6fbee2
+--- /dev/null
++++ b/hardware/Cambricon_MLU/FlagScale/examples/aquila/tokenizer/special_tokens.txt.patch
+@@ -0,0 +1,4 @@
++diff --git a/examples/aquila/tokenizer/special_tokens.txt b/examples/aquila/tokenizer/special_tokens.txt
++old mode 100644
++new mode 100755
++
+

@@ -1,0 +1,4 @@
+diff --git a/hardware/Cambricon_MLU/vllm/examples/tool_chat_template_xlam_qwen.jinja.patch b/hardware/Cambricon_MLU/vllm/examples/tool_chat_template_xlam_qwen.jinja.patch
+old mode 100644
+new mode 100755
+

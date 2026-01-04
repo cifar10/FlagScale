@@ -1,0 +1,11 @@
+diff --git a/hardware/Cambricon_MLU/FlagScale/examples/qwen3/conf/train/te_fl.yaml.patch b/hardware/Cambricon_MLU/FlagScale/examples/qwen3/conf/train/te_fl.yaml.patch
+new file mode 100644
+index 00000000..ecd3bbae
+--- /dev/null
++++ b/hardware/Cambricon_MLU/FlagScale/examples/qwen3/conf/train/te_fl.yaml.patch
+@@ -0,0 +1,4 @@
++diff --git a/examples/qwen3/conf/train/te_fl.yaml b/examples/qwen3/conf/train/te_fl.yaml
++old mode 100644
++new mode 100755
++
+

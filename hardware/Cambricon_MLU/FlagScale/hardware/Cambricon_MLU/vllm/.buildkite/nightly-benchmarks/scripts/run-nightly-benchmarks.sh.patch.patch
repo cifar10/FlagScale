@@ -1,0 +1,4 @@
+diff --git a/hardware/Cambricon_MLU/vllm/.buildkite/nightly-benchmarks/scripts/run-nightly-benchmarks.sh.patch b/hardware/Cambricon_MLU/vllm/.buildkite/nightly-benchmarks/scripts/run-nightly-benchmarks.sh.patch
+old mode 100644
+new mode 100755
+

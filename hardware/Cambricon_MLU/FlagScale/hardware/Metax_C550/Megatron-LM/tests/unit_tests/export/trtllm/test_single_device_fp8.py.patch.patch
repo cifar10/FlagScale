@@ -1,0 +1,4 @@
+diff --git a/hardware/Metax_C550/Megatron-LM/tests/unit_tests/export/trtllm/test_single_device_fp8.py.patch b/hardware/Metax_C550/Megatron-LM/tests/unit_tests/export/trtllm/test_single_device_fp8.py.patch
+old mode 100644
+new mode 100755
+

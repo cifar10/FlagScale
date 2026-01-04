@@ -1,0 +1,4 @@
+diff --git a/hardware/Hygon_BW1000/vllm/.buildkite/nightly-benchmarks/scripts/run-performance-benchmarks.sh.patch.encrypted b/hardware/Hygon_BW1000/vllm/.buildkite/nightly-benchmarks/scripts/run-performance-benchmarks.sh.patch.encrypted
+old mode 100644
+new mode 100755
+

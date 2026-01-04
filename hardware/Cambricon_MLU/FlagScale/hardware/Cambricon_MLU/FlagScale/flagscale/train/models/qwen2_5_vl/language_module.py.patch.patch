@@ -1,0 +1,11 @@
+diff --git a/hardware/Cambricon_MLU/FlagScale/flagscale/train/models/qwen2_5_vl/language_module.py.patch b/hardware/Cambricon_MLU/FlagScale/flagscale/train/models/qwen2_5_vl/language_module.py.patch
+new file mode 100644
+index 00000000..b3c697c1
+--- /dev/null
++++ b/hardware/Cambricon_MLU/FlagScale/flagscale/train/models/qwen2_5_vl/language_module.py.patch
+@@ -0,0 +1,4 @@
++diff --git a/flagscale/train/models/qwen2_5_vl/language_module.py b/flagscale/train/models/qwen2_5_vl/language_module.py
++old mode 100644
++new mode 100755
++
+

@@ -1,0 +1,4 @@
+diff --git a/hardware/Kunlunxin_R310p/vllm/xvllm/csrc/moe/torch_bindings.cpp.patch.encrypted b/hardware/Kunlunxin_R310p/vllm/xvllm/csrc/moe/torch_bindings.cpp.patch.encrypted
+old mode 100644
+new mode 100755
+

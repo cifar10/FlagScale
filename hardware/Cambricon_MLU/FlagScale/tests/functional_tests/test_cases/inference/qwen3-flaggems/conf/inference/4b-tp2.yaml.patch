@@ -1,0 +1,4 @@
+diff --git a/tests/functional_tests/test_cases/inference/qwen3-flaggems/conf/inference/4b-tp2.yaml b/tests/functional_tests/test_cases/inference/qwen3-flaggems/conf/inference/4b-tp2.yaml
+old mode 100644
+new mode 100755
+

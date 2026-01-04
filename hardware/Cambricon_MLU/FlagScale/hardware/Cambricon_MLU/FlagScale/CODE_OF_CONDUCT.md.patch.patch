@@ -1,0 +1,11 @@
+diff --git a/hardware/Cambricon_MLU/FlagScale/CODE_OF_CONDUCT.md.patch b/hardware/Cambricon_MLU/FlagScale/CODE_OF_CONDUCT.md.patch
+new file mode 100644
+index 00000000..e7a8cc9c
+--- /dev/null
++++ b/hardware/Cambricon_MLU/FlagScale/CODE_OF_CONDUCT.md.patch
+@@ -0,0 +1,4 @@
++diff --git a/CODE_OF_CONDUCT.md b/CODE_OF_CONDUCT.md
++old mode 100644
++new mode 100755
++
+

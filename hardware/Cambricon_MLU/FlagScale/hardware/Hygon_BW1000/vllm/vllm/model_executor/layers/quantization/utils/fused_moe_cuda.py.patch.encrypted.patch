@@ -1,0 +1,4 @@
+diff --git a/hardware/Hygon_BW1000/vllm/vllm/model_executor/layers/quantization/utils/fused_moe_cuda.py.patch.encrypted b/hardware/Hygon_BW1000/vllm/vllm/model_executor/layers/quantization/utils/fused_moe_cuda.py.patch.encrypted
+old mode 100644
+new mode 100755
+

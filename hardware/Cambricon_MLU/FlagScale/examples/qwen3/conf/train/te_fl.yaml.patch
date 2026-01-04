@@ -1,0 +1,4 @@
+diff --git a/examples/qwen3/conf/train/te_fl.yaml b/examples/qwen3/conf/train/te_fl.yaml
+old mode 100644
+new mode 100755
+

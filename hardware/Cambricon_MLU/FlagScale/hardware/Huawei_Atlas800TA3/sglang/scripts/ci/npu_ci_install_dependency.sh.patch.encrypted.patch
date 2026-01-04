@@ -1,0 +1,4 @@
+diff --git a/hardware/Huawei_Atlas800TA3/sglang/scripts/ci/npu_ci_install_dependency.sh.patch.encrypted b/hardware/Huawei_Atlas800TA3/sglang/scripts/ci/npu_ci_install_dependency.sh.patch.encrypted
+old mode 100644
+new mode 100755
+

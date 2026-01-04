@@ -1,0 +1,11 @@
+diff --git a/hardware/Cambricon_MLU/FlagScale/flagscale/serve/run_disagg_xpyd_router.py.patch b/hardware/Cambricon_MLU/FlagScale/flagscale/serve/run_disagg_xpyd_router.py.patch
+new file mode 100644
+index 00000000..e2ba3d95
+--- /dev/null
++++ b/hardware/Cambricon_MLU/FlagScale/flagscale/serve/run_disagg_xpyd_router.py.patch
+@@ -0,0 +1,4 @@
++diff --git a/flagscale/serve/run_disagg_xpyd_router.py b/flagscale/serve/run_disagg_xpyd_router.py
++old mode 100644
++new mode 100755
++
+

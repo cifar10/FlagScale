@@ -1,0 +1,4 @@
+diff --git a/flagscale/train/peft/peft.py b/flagscale/train/peft/peft.py
+old mode 100644
+new mode 100755
+

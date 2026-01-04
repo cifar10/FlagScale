@@ -1,0 +1,4 @@
+diff --git a/examples/qwen2_5/conf/serve_multiple_models.yaml b/examples/qwen2_5/conf/serve_multiple_models.yaml
+old mode 100644
+new mode 100755
+

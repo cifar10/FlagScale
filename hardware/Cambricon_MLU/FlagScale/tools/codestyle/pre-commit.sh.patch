@@ -1,0 +1,4 @@
+diff --git a/tools/codestyle/pre-commit.sh b/tools/codestyle/pre-commit.sh
+old mode 100644
+new mode 100755
+

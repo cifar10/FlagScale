@@ -1,0 +1,4 @@
+diff --git a/flagscale/runner/elastic/monitor_launcher.py b/flagscale/runner/elastic/monitor_launcher.py
+old mode 100644
+new mode 100755
+

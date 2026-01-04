@@ -1,0 +1,11 @@
+diff --git a/hardware/Cambricon_MLU/FlagScale/examples/flux_1_dev/conf/inference.yaml.patch b/hardware/Cambricon_MLU/FlagScale/examples/flux_1_dev/conf/inference.yaml.patch
+new file mode 100644
+index 00000000..61ba85b7
+--- /dev/null
++++ b/hardware/Cambricon_MLU/FlagScale/examples/flux_1_dev/conf/inference.yaml.patch
+@@ -0,0 +1,4 @@
++diff --git a/examples/flux_1_dev/conf/inference.yaml b/examples/flux_1_dev/conf/inference.yaml
++old mode 100644
++new mode 100755
++
+

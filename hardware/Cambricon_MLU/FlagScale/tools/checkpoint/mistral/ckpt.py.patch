@@ -1,0 +1,4 @@
+diff --git a/tools/checkpoint/mistral/ckpt.py b/tools/checkpoint/mistral/ckpt.py
+old mode 100644
+new mode 100755
+

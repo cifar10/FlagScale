@@ -1,0 +1,4 @@
+diff --git a/hardware/Cambricon_MLU/vllm/vllm_mlu/tools/ray_mlu/diff_for_dump_info.patch.patch b/hardware/Cambricon_MLU/vllm/vllm_mlu/tools/ray_mlu/diff_for_dump_info.patch.patch
+old mode 100644
+new mode 100755
+

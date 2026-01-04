@@ -1,0 +1,4 @@
+diff --git a/hardware/Cambricon_MLU/vllm/.buildkite/lm-eval-harness/configs/Meta-Llama-3-8B-QQQ.yaml.patch b/hardware/Cambricon_MLU/vllm/.buildkite/lm-eval-harness/configs/Meta-Llama-3-8B-QQQ.yaml.patch
+old mode 100644
+new mode 100755
+

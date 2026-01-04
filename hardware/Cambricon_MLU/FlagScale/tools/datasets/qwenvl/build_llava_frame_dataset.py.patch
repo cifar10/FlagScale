@@ -1,0 +1,4 @@
+diff --git a/tools/datasets/qwenvl/build_llava_frame_dataset.py b/tools/datasets/qwenvl/build_llava_frame_dataset.py
+old mode 100644
+new mode 100755
+

@@ -1,0 +1,4 @@
+diff --git a/hardware/Cambricon_MLU/vllm/vllm_mlu/vllm_mlu/engine/__init__.py.patch b/hardware/Cambricon_MLU/vllm/vllm_mlu/vllm_mlu/engine/__init__.py.patch
+old mode 100644
+new mode 100755
+

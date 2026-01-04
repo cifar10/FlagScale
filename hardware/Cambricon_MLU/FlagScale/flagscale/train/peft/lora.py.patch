@@ -1,0 +1,4 @@
+diff --git a/flagscale/train/peft/lora.py b/flagscale/train/peft/lora.py
+old mode 100644
+new mode 100755
+

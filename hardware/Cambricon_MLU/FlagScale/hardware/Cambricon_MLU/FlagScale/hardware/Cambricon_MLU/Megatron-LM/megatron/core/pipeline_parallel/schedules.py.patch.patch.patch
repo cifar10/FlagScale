@@ -1,0 +1,11 @@
+diff --git a/hardware/Cambricon_MLU/FlagScale/hardware/Cambricon_MLU/Megatron-LM/megatron/core/pipeline_parallel/schedules.py.patch.patch b/hardware/Cambricon_MLU/FlagScale/hardware/Cambricon_MLU/Megatron-LM/megatron/core/pipeline_parallel/schedules.py.patch.patch
+new file mode 100644
+index 00000000..650b013a
+--- /dev/null
++++ b/hardware/Cambricon_MLU/FlagScale/hardware/Cambricon_MLU/Megatron-LM/megatron/core/pipeline_parallel/schedules.py.patch.patch
+@@ -0,0 +1,4 @@
++diff --git a/hardware/Cambricon_MLU/Megatron-LM/megatron/core/pipeline_parallel/schedules.py.patch b/hardware/Cambricon_MLU/Megatron-LM/megatron/core/pipeline_parallel/schedules.py.patch
++old mode 100644
++new mode 100755
++
+

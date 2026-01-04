@@ -1,0 +1,4 @@
+diff --git a/hardware/NVIDIA_CambriconMLU/Megatron-LM/examples/multimodal/mlp_converter.py.patch b/hardware/NVIDIA_CambriconMLU/Megatron-LM/examples/multimodal/mlp_converter.py.patch
+old mode 100644
+new mode 100755
+

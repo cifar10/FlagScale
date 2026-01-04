@@ -1,0 +1,11 @@
+diff --git a/hardware/Cambricon_MLU/FlagScale/examples/kimi_k2/conf/serve/1t.yaml.patch b/hardware/Cambricon_MLU/FlagScale/examples/kimi_k2/conf/serve/1t.yaml.patch
+new file mode 100644
+index 00000000..2fc9dc5e
+--- /dev/null
++++ b/hardware/Cambricon_MLU/FlagScale/examples/kimi_k2/conf/serve/1t.yaml.patch
+@@ -0,0 +1,4 @@
++diff --git a/examples/kimi_k2/conf/serve/1t.yaml b/examples/kimi_k2/conf/serve/1t.yaml
++old mode 100644
++new mode 100755
++
+

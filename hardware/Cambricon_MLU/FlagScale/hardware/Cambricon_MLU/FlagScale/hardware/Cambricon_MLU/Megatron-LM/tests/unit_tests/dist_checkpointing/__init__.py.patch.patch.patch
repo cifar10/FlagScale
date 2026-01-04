@@ -1,0 +1,11 @@
+diff --git a/hardware/Cambricon_MLU/FlagScale/hardware/Cambricon_MLU/Megatron-LM/tests/unit_tests/dist_checkpointing/__init__.py.patch.patch b/hardware/Cambricon_MLU/FlagScale/hardware/Cambricon_MLU/Megatron-LM/tests/unit_tests/dist_checkpointing/__init__.py.patch.patch
+new file mode 100644
+index 00000000..75799039
+--- /dev/null
++++ b/hardware/Cambricon_MLU/FlagScale/hardware/Cambricon_MLU/Megatron-LM/tests/unit_tests/dist_checkpointing/__init__.py.patch.patch
+@@ -0,0 +1,4 @@
++diff --git a/hardware/Cambricon_MLU/Megatron-LM/tests/unit_tests/dist_checkpointing/__init__.py.patch b/hardware/Cambricon_MLU/Megatron-LM/tests/unit_tests/dist_checkpointing/__init__.py.patch
++old mode 100644
++new mode 100755
++
+

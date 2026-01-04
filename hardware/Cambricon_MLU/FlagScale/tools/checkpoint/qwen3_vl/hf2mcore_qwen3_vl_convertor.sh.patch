@@ -1,0 +1,4 @@
+diff --git a/tools/checkpoint/qwen3_vl/hf2mcore_qwen3_vl_convertor.sh b/tools/checkpoint/qwen3_vl/hf2mcore_qwen3_vl_convertor.sh
+old mode 100644
+new mode 100755
+

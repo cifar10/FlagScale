@@ -1,0 +1,11 @@
+diff --git a/hardware/Cambricon_MLU/FlagScale/flagscale/serve/args_mapping/mapping_funcs/llama_cpp.py.patch b/hardware/Cambricon_MLU/FlagScale/flagscale/serve/args_mapping/mapping_funcs/llama_cpp.py.patch
+new file mode 100644
+index 00000000..d138b5cc
+--- /dev/null
++++ b/hardware/Cambricon_MLU/FlagScale/flagscale/serve/args_mapping/mapping_funcs/llama_cpp.py.patch
+@@ -0,0 +1,4 @@
++diff --git a/flagscale/serve/args_mapping/mapping_funcs/llama_cpp.py b/flagscale/serve/args_mapping/mapping_funcs/llama_cpp.py
++old mode 100644
++new mode 100755
++
+

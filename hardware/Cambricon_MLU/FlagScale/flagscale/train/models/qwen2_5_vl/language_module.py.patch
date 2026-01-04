@@ -1,0 +1,4 @@
+diff --git a/flagscale/train/models/qwen2_5_vl/language_module.py b/flagscale/train/models/qwen2_5_vl/language_module.py
+old mode 100644
+new mode 100755
+

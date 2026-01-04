@@ -1,0 +1,4 @@
+diff --git a/flagscale/runner/elastic/diagnostic.py b/flagscale/runner/elastic/diagnostic.py
+old mode 100644
+new mode 100755
+

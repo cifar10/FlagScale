@@ -1,0 +1,11 @@
+diff --git a/hardware/Cambricon_MLU/FlagScale/flagscale/train/extra_valid.py.patch b/hardware/Cambricon_MLU/FlagScale/flagscale/train/extra_valid.py.patch
+new file mode 100644
+index 00000000..53928d49
+--- /dev/null
++++ b/hardware/Cambricon_MLU/FlagScale/flagscale/train/extra_valid.py.patch
+@@ -0,0 +1,4 @@
++diff --git a/flagscale/train/extra_valid.py b/flagscale/train/extra_valid.py
++old mode 100644
++new mode 100755
++
+

@@ -1,0 +1,4 @@
+diff --git a/hardware/Cambricon_MLU/vllm/tests/model_executor/test_guided_processors.py.patch b/hardware/Cambricon_MLU/vllm/tests/model_executor/test_guided_processors.py.patch
+old mode 100644
+new mode 100755
+

@@ -1,0 +1,4 @@
+diff --git a/hardware/Hygon_BW1000/vllm/examples/tool_chat_template_xlam_qwen.jinja.patch.encrypted b/hardware/Hygon_BW1000/vllm/examples/tool_chat_template_xlam_qwen.jinja.patch.encrypted
+old mode 100644
+new mode 100755
+

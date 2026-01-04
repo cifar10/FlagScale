@@ -1,0 +1,11 @@
+diff --git a/hardware/Cambricon_MLU/FlagScale/hardware/Cambricon_MLU/vllm/.buildkite/nightly-benchmarks/tests/nightly-tests.json.patch.patch b/hardware/Cambricon_MLU/FlagScale/hardware/Cambricon_MLU/vllm/.buildkite/nightly-benchmarks/tests/nightly-tests.json.patch.patch
+new file mode 100644
+index 00000000..ffdb06e8
+--- /dev/null
++++ b/hardware/Cambricon_MLU/FlagScale/hardware/Cambricon_MLU/vllm/.buildkite/nightly-benchmarks/tests/nightly-tests.json.patch.patch
+@@ -0,0 +1,4 @@
++diff --git a/hardware/Cambricon_MLU/vllm/.buildkite/nightly-benchmarks/tests/nightly-tests.json.patch b/hardware/Cambricon_MLU/vllm/.buildkite/nightly-benchmarks/tests/nightly-tests.json.patch
++old mode 100644
++new mode 100755
++
+

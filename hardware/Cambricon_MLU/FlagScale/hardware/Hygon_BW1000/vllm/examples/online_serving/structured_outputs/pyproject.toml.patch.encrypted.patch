@@ -1,0 +1,4 @@
+diff --git a/hardware/Hygon_BW1000/vllm/examples/online_serving/structured_outputs/pyproject.toml.patch.encrypted b/hardware/Hygon_BW1000/vllm/examples/online_serving/structured_outputs/pyproject.toml.patch.encrypted
+old mode 100644
+new mode 100755
+

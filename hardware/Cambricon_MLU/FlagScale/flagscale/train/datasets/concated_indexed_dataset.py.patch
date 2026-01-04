@@ -1,0 +1,4 @@
+diff --git a/flagscale/train/datasets/concated_indexed_dataset.py b/flagscale/train/datasets/concated_indexed_dataset.py
+old mode 100644
+new mode 100755
+
